@@ -1,18 +1,7 @@
 from src.query_sandbox_id import to_sandbox_id
 
 
-def download_sandbox_ids_based_on_products(products, verbose=True):
-    slugs = set(products.values())
-
-    if verbose:
-        print(f"#unique slugs = {len(slugs)}")
-
-    sandbox_ids = download_sandbox_ids_based_on_slugs(slugs)
-
-    return sandbox_ids
-
-
-def download_sandbox_ids_based_on_slugs(slugs, verbose=True):
+def download_sandbox_ids(slugs, verbose=True):
     sandbox_ids = dict()
 
     for s in slugs:
