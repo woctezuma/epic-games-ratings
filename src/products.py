@@ -19,16 +19,30 @@ def download_store_data(verbose=True):
 
 
 def load_store_products(num_chunks, verbose=True):
-    products = dict()
+    products = list()
 
     for chunk_no in range(num_chunks):
         store_data = load_json(get_store_data_fname(chunk_no))
         for e in store_data["elements"]:
-            title = e["title"]
-            slug = e["urlSlug"]
-            products[title] = slug
+            offer_mapping = e["offerMappings"]
+            namespace_mapping = e["catalogNs"]["mappings"]
+
+            mappings = []
+            if offer_mapping is not None:
+                mappings += offer_mapping
+            if namespace_mapping is not None:
+                mappings += namespace_mapping
+
+            for p in mappings:
+                try:
+                    slug = p["productSlug"]
+                except KeyError:
+                    continue
+                products.append(slug)
+
+    products = set(products)
 
     if verbose:
-        print(f"#products = {len(products)}")
+        print(f"#productSlugs = {len(products)}")
 
     return products
