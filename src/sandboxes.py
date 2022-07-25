@@ -9,6 +9,9 @@ def download_sandbox_ids(slugs, save_every=60, verbose=True):
         sandbox_ids = dict()
 
     for iter, s in enumerate(slugs, start=1):
+        if s in sandbox_ids and sandbox_ids[s] is not None:
+            continue
+
         id = to_sandbox_id(s, verbose=verbose)
 
         if verbose and id is not None:
