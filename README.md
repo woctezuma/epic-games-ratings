@@ -25,6 +25,12 @@ python download_sandbox_ids.py
 python download_game_ratings.py
 ```
 
+Alternatively:
+
+-   Run [`epic-games-ratings.ipynb`][colab-notebook]
+[![Open In Colab][colab-badge]][colab-notebook]
+
+
 ## References
 
 - [`nikop/epic-games-ratings`][madjoki-egs-ratings]
@@ -34,4 +40,6 @@ python download_game_ratings.py
 
 [madjoki-egs-ratings]: <https://github.com/nikop/epic-games-ratings>
 [egs-api-graphql]: <https://github.com/ToutinRoger/EpicGraphQL>
+[colab-notebook]: <https://colab.research.google.com/github/woctezuma/epic-games-ratings/blob/colab/epic-games-ratings.ipynb>
+[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
