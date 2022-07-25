@@ -11,7 +11,7 @@ def download_game_ratings(sandbox_ids, save_every=60, verbose=True):
 
         rating = to_game_rating(id, verbose=verbose)
 
-        if verbose and id is not None:
+        if verbose and rating is not None:
             print(f"{id} -> {rating}")
 
         game_ratings[id] = rating
