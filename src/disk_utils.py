@@ -27,3 +27,8 @@ def get_store_data_fname(iter_no):
 def get_sandbox_ids_fname():
     folder_name = get_data_folder()
     return f"{folder_name}/sandbox_ids.json"
+
+
+def get_game_ratings_fname():
+    folder_name = get_data_folder()
+    return f"{folder_name}/game_ratings.json"
