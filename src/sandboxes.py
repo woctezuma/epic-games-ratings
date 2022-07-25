@@ -18,6 +18,8 @@ def download_sandbox_ids(slugs, save_every=60, verbose=True):
 
         if iter % save_every == 0:
             save_json(sandbox_ids, get_sandbox_ids_fname())
+            if verbose:
+                print(f"Saving {iter}/{len(slugs)}")
 
     save_json(sandbox_ids, get_sandbox_ids_fname())
 

@@ -18,6 +18,8 @@ def download_game_ratings(sandbox_ids, save_every=60, verbose=True):
 
         if iter % save_every == 0:
             save_json(game_ratings, get_game_ratings_fname())
+            if verbose:
+                print(f"Saving {iter}/{len(sandbox_ids)}")
 
     save_json(game_ratings, get_game_ratings_fname())
 
