@@ -30,7 +30,8 @@ def get_json_data_to_query_store_data(cursor, verbose=True):
 
     prefix = "{Catalog {searchStore"
     param_str = '(category: "games", ' + f"start: {cursor}, count: {step})"
-    content_str = "{ paging {count total} elements {title urlSlug} }"
+    slug_str = 'productSlug offerMappings {pageSlug} catalogNs {mappings(pageType: "productHome") {pageSlug}}'
+    content_str = "{ paging {count total} elements {title urlSlug " + slug_str + " } }"
     suffix = "}}"
 
     query = prefix + param_str + content_str + suffix
