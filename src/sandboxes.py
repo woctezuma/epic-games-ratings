@@ -22,6 +22,8 @@ def download_sandbox_ids_dict(slugs, save_every=60, verbose=True):
                 print(f"Saving {iter}/{len(slugs)}")
 
     save_json(sandbox_ids_dict, get_sandbox_ids_fname())
+    if verbose:
+        print(f"Finally saving {iter}/{len(slugs)}")
 
     return sandbox_ids_dict
 

@@ -22,6 +22,8 @@ def download_game_ratings(sandbox_ids, save_every=60, verbose=True):
                 print(f"Saving {iter}/{len(sandbox_ids)}")
 
     save_json(game_ratings, get_game_ratings_fname())
+    if verbose:
+        print(f"Finally saving {iter}/{len(sandbox_ids)}")
 
     return game_ratings
 
