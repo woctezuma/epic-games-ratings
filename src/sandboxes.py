@@ -1,9 +1,12 @@
-from src.disk_utils import save_json, get_sandbox_ids_fname
+from src.disk_utils import save_json, get_sandbox_ids_fname, load_json
 from src.query_sandbox_id import to_sandbox_id
 
 
 def download_sandbox_ids(slugs, verbose=True):
-    sandbox_ids = dict()
+    try:
+        sandbox_ids = load_json(get_sandbox_ids_fname())
+    except FileNotFoundError:
+        sandbox_ids = dict()
 
     for s in slugs:
         id = to_sandbox_id(s, verbose=verbose)
