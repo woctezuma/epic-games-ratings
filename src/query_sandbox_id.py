@@ -18,7 +18,7 @@ def get_params_to_query_sandbox_id(page_slug):
 
 def to_sandbox_id(page_slug, verbose=True):
     params = get_params_to_query_sandbox_id(page_slug)
-    data = send_get_to_api(params, subdomain="store", verbose=verbose)
+    data = send_get_to_api(params, subdomain="graphql", verbose=verbose)
     try:
         sandbox_id = data["data"]["StorePageMapping"]["mapping"]["sandboxId"]
     except TypeError:
