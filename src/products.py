@@ -18,7 +18,7 @@ def download_store_data(verbose=True):
     return num_queries
 
 
-def load_store_products(num_chunks, keyword="productSlug", verbose=True):
+def load_store_products(num_chunks, keyword="pageSlug", verbose=True):
     products = list()
 
     for chunk_no in range(num_chunks):
