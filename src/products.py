@@ -18,7 +18,7 @@ def download_store_data(verbose=True):
     return num_queries
 
 
-def load_store_products(num_chunks, verbose=True):
+def load_store_products(num_chunks, keyword="productSlug", verbose=True):
     products = list()
 
     for chunk_no in range(num_chunks):
@@ -35,7 +35,7 @@ def load_store_products(num_chunks, verbose=True):
 
             for p in mappings:
                 try:
-                    slug = p["productSlug"]
+                    slug = p[keyword]
                 except KeyError:
                     continue
                 products.append(slug)
@@ -43,6 +43,6 @@ def load_store_products(num_chunks, verbose=True):
     products = set(products)
 
     if verbose:
-        print(f"#productSlugs = {len(products)}")
+        print(f"#{keyword}s = {len(products)}")
 
     return products
