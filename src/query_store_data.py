@@ -44,8 +44,8 @@ def get_json_data_to_query_store_data(cursor, verbose=True):
     return json_data
 
 
-def to_store_data(cursor, send_get_request=False, verbose=True):
-    if send_get_request:
+def to_store_data(cursor, use_preset_operation=False, verbose=True):
+    if use_preset_operation:
         params = get_params_to_query_store_data(cursor)
         data = send_post_to_api(params, verbose=verbose)
     else:
