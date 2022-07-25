@@ -1,0 +1,56 @@
+from src.api import send_get_to_api, send_post_to_api
+
+from src.cursor_utils import get_num_games_per_query
+
+
+def get_params_to_query_store_data(cursor):
+    step = get_num_games_per_query()
+
+    params = {
+        "operationName": "searchStoreQuery",
+        "variables": {
+            "category": "games",
+            "country": "FR",
+            "start": cursor,
+            "count": step
+        },
+        "extensions": {
+            "persistedQuery": {
+                "version": 1,
+                "sha256Hash": "13a2b6787f1a20d05c75c54c78b1b8ac7c8bf4efc394edf7a5998fdf35d1adb0"
+            }
+        }
+    }
+
+    return params
+
+
+def get_json_data_to_query_store_data(cursor, verbose=True):
+    step = get_num_games_per_query()
+
+    prefix = "{Catalog {searchStore"
+    param_str = '(category: "games", ' + f"start: {cursor}, count: {step})"
+    content_str = "{ paging {count total} elements {title urlSlug} }"
+    suffix = "}}"
+
+    query = prefix + param_str + content_str + suffix
+
+    if verbose:
+        print(f'Query: {query}')
+
+    json_data = {"query": query}
+
+    return json_data
+
+
+def to_store_data(cursor, send_get_request=False, verbose=True):
+    if send_get_request:
+        params = get_params_to_query_store_data(cursor)
+        data = send_get_to_api(params, verbose=verbose)
+    else:
+        json_data = get_json_data_to_query_store_data(cursor)
+        data = send_post_to_api(json_data, verbose=verbose)
+
+    store_data = data['data']['Catalog']['searchStore']
+
+    return store_data
