@@ -28,8 +28,10 @@ python download_game_ratings.py
 ## References
 
 - [`nikop/epic-games-ratings`][madjoki-egs-ratings]
+- [`ToutinRoger/EpicGraphQL`][egs-api-graphql]
 
 <!-- Definitions -->
 
 [madjoki-egs-ratings]: <https://github.com/nikop/epic-games-ratings>
+[egs-api-graphql]: <https://github.com/ToutinRoger/EpicGraphQL>
 
