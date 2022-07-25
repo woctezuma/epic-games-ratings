@@ -7,7 +7,15 @@ def download_game_ratings(sandbox_ids, save_every=60, verbose=True):
 
     for iter, id in enumerate(sandbox_ids, start=1):
         if id in game_ratings and game_ratings[id] is not None:
-            continue
+            rating = game_ratings[id]
+            is_rating_okay = bool(
+                "averageRating" in rating and rating["averageRating"] is not None
+            )
+            is_num_raters_okay = bool(
+                "ratingCount" in rating and rating["ratingCount"] is not None
+            )
+            if is_rating_okay and is_num_raters_okay:
+                continue
 
         rating = to_game_rating(id, verbose=verbose)
 
