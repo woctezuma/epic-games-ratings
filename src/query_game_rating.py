@@ -18,7 +18,7 @@ def get_params_to_query_game_rating(sandbox_id):
 
 def to_game_rating(sandbox_id, verbose=True):
     params = get_params_to_query_game_rating(sandbox_id)
-    data = send_get_to_api(params, verbose=verbose)
+    data = send_get_to_api(params, subdomain="store", verbose=verbose)
     try:
         game_rating = data["data"]["RatingsPolls"]["getProductResult"]
     except TypeError:

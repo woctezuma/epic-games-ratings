@@ -50,7 +50,7 @@ def to_store_data(cursor, send_get_request=False, verbose=True):
         data = send_get_to_api(params, verbose=verbose)
     else:
         json_data = get_json_data_to_query_store_data(cursor)
-        data = send_post_to_api(json_data, verbose=verbose)
+        data = send_post_to_api(json_data, subdomain="graphql", verbose=verbose)
 
     store_data = data["data"]["Catalog"]["searchStore"]
 
