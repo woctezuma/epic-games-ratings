@@ -21,6 +21,6 @@ def download_sandbox_ids_based_on_slugs(slugs, verbose=True):
         if verbose and id is not None:
             print(f"{s} -> {id}")
 
-        sandbox_ids[s] = to_sandbox_id(s)
+        sandbox_ids[s] = id
 
     return sandbox_ids
