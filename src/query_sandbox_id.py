@@ -21,6 +21,6 @@ def to_sandbox_id(page_slug, verbose=True):
     data = send_post_request_to_api(params, verbose=verbose)
     try:
         sandbox_id = data["data"]["StorePageMapping"]["mapping"]["sandboxId"]
-    except TypeError:
+    except (TypeError, KeyError) as e:
         sandbox_id = None
     return sandbox_id
