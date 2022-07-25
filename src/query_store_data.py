@@ -12,14 +12,14 @@ def get_params_to_query_store_data(cursor):
             "category": "games",
             "country": "FR",
             "start": cursor,
-            "count": step
+            "count": step,
         },
         "extensions": {
             "persistedQuery": {
                 "version": 1,
-                "sha256Hash": "13a2b6787f1a20d05c75c54c78b1b8ac7c8bf4efc394edf7a5998fdf35d1adb0"
+                "sha256Hash": "13a2b6787f1a20d05c75c54c78b1b8ac7c8bf4efc394edf7a5998fdf35d1adb0",
             }
-        }
+        },
     }
 
     return params
