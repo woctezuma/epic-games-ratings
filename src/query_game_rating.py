@@ -21,6 +21,6 @@ def to_game_rating(sandbox_id, verbose=True):
     data = send_post_request_to_api(params, verbose=verbose)
     try:
         game_rating = data["data"]["RatingsPolls"]["getProductResult"]
-    except TypeError:
+    except (TypeError, KeyError) as e:
         game_rating = None
     return game_rating
