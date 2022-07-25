@@ -9,7 +9,7 @@ def download_store_data():
     save_json(store_data, get_store_data_fname(iter_no))
 
     num_queries = compute_num_queries(store_data)
-    print(f'#queries: {num_queries}')
+    print(f"#queries: {num_queries}")
 
     for iter_no in range(1, num_queries):
         store_data = to_store_data(cursor=compute_cursor(iter_no))
@@ -23,12 +23,12 @@ def load_store_products(num_chunks, verbose=True):
 
     for chunk_no in range(num_chunks):
         store_data = load_json(get_store_data_fname(chunk_no))
-        for e in store_data['elements']:
-            title = e['title']
-            slug = e['urlSlug']
+        for e in store_data["elements"]:
+            title = e["title"]
+            slug = e["urlSlug"]
             products[title] = slug
 
     if verbose:
-        print(f'#products = {len(products)}')
+        print(f"#products = {len(products)}")
 
     return products

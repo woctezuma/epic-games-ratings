@@ -7,7 +7,7 @@ def compute_cursor(iter_no):
 
 
 def extract_num_games(store_data):
-    return store_data['paging']['total']
+    return store_data["paging"]["total"]
 
 
 def compute_num_queries(store_data):

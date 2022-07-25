@@ -5,7 +5,7 @@ def download_sandbox_ids_based_on_products(products, verbose=True):
     slugs = set(products.values())
 
     if verbose:
-        print(f'#unique slugs = {len(slugs)}')
+        print(f"#unique slugs = {len(slugs)}")
 
     sandbox_ids = download_sandbox_ids_based_on_slugs(slugs)
 
@@ -19,7 +19,7 @@ def download_sandbox_ids_based_on_slugs(slugs, verbose=True):
         id = to_sandbox_id(s)
 
         if verbose and id is not None:
-            print(f'{s} -> {id}')
+            print(f"{s} -> {id}")
 
         sandbox_ids[s] = to_sandbox_id(s)
 

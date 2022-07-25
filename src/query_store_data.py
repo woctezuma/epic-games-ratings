@@ -36,7 +36,7 @@ def get_json_data_to_query_store_data(cursor, verbose=True):
     query = prefix + param_str + content_str + suffix
 
     if verbose:
-        print(f'Query: {query}')
+        print(f"Query: {query}")
 
     json_data = {"query": query}
 
@@ -51,6 +51,6 @@ def to_store_data(cursor, send_get_request=False, verbose=True):
         json_data = get_json_data_to_query_store_data(cursor)
         data = send_post_to_api(json_data, verbose=verbose)
 
-    store_data = data['data']['Catalog']['searchStore']
+    store_data = data["data"]["Catalog"]["searchStore"]
 
     return store_data
