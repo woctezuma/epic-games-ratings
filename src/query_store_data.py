@@ -1,4 +1,4 @@
-from src.api import send_get_to_api, send_post_to_api
+from src.api import send_post_to_api
 
 from src.cursor_utils import get_num_games_per_query
 
@@ -47,7 +47,7 @@ def get_json_data_to_query_store_data(cursor, verbose=True):
 def to_store_data(cursor, send_get_request=False, verbose=True):
     if send_get_request:
         params = get_params_to_query_store_data(cursor)
-        data = send_get_to_api(params, verbose=verbose)
+        data = send_post_to_api(params, verbose=verbose)
     else:
         json_data = get_json_data_to_query_store_data(cursor)
         data = send_post_to_api(json_data, subdomain="graphql", verbose=verbose)
