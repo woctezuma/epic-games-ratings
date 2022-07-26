@@ -9,7 +9,7 @@ def get_params_to_query_store_data(cursor, include_dlc=False):
     params = {
         "operationName": "searchStoreQuery",
         "variables": {
-            "category": "games",
+            "category": "games/edition/base",
             "country": "FR",
             "start": cursor,
             "count": step,
@@ -34,7 +34,7 @@ def get_json_data_to_query_store_data(cursor, include_dlc=False, verbose=True):
     if include_dlc:
         category_str = ""
     else:
-        category_str = 'category: "games", '
+        category_str = 'category: "games/edition/base", '
 
     prefix = "{Catalog {searchStore"
     param_str = f"({category_str}start: {cursor}, count: {step})"
