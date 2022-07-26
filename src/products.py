@@ -49,9 +49,9 @@ def load_slugs_dict(num_chunks, keyword="pageSlug", verbose=True):
                     continue
 
                 if slug in slugs_dict:
-                    slugs_dict[slug].append(title)
+                    slugs_dict[slug].add(title)
                 else:
-                    slugs_dict[slug] = [title]
+                    slugs_dict[slug] = {title}
 
     if verbose:
         print(f"#{keyword}s = {len(slugs_dict)}")
