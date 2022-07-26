@@ -2,20 +2,26 @@ from src.disk_utils import save_json, get_game_ratings_fname, load_json
 from src.query_game_rating import to_game_rating
 
 
+def has_a_valid_field_value(rating, keyword):
+    return bool(keyword in rating and rating[keyword] is not None)
+
+
+def is_a_valid_rating(rating):
+    is_valid = (
+        bool(rating is not None)
+        and has_a_valid_field_value(rating, "averageRating")
+        and has_a_valid_field_value(rating, "ratingCount")
+    )
+
+    return is_valid
+
+
 def download_game_ratings(sandbox_ids, save_every=60, verbose=True):
     game_ratings = load_game_ratings()
 
     for iter, id in enumerate(sandbox_ids, start=1):
-        if id in game_ratings and game_ratings[id] is not None:
-            rating = game_ratings[id]
-            is_rating_okay = bool(
-                "averageRating" in rating and rating["averageRating"] is not None
-            )
-            is_num_raters_okay = bool(
-                "ratingCount" in rating and rating["ratingCount"] is not None
-            )
-            if is_rating_okay and is_num_raters_okay:
-                continue
+        if id in game_ratings and is_a_valid_rating(game_ratings[id]):
+            continue
 
         rating = to_game_rating(id, verbose=verbose)
 
