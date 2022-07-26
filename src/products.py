@@ -31,6 +31,9 @@ def download_store_data(use_preset_operation=False, include_dlc=False, verbose=T
 def load_slugs_dict(num_chunks, keyword="pageSlug", verbose=True):
     slugs_dict = dict()
 
+    if verbose:
+        print(f'Loading store data which was saved in {num_chunks} chunks.')
+
     for chunk_no in range(num_chunks):
         store_data = load_json(get_store_data_fname(chunk_no))
         for e in store_data["elements"]:
