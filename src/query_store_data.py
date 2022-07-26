@@ -49,7 +49,7 @@ def to_store_data(cursor, use_preset_operation=False, verbose=True):
         params = get_params_to_query_store_data(cursor)
         data = send_post_request_to_api(params, verbose=verbose)
     else:
-        json_data = get_json_data_to_query_store_data(cursor)
+        json_data = get_json_data_to_query_store_data(cursor, verbose=verbose)
         data = send_post_request_to_api(json_data, verbose=verbose)
 
     store_data = data["data"]["Catalog"]["searchStore"]
