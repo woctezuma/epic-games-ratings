@@ -3,7 +3,7 @@ from src.api import send_post_request_to_api
 from src.cursor_utils import get_num_games_per_query
 
 
-def get_params_to_query_store_data(cursor):
+def get_params_to_query_store_data(cursor, include_dlc=False):
     step = get_num_games_per_query()
 
     params = {
@@ -21,6 +21,9 @@ def get_params_to_query_store_data(cursor):
             }
         },
     }
+
+    if include_dlc:
+        del params["variables"]["category"]
 
     return params
 
@@ -51,7 +54,7 @@ def get_json_data_to_query_store_data(cursor, include_dlc=False, verbose=True):
 
 def to_store_data(cursor, use_preset_operation=False, include_dlc=False, verbose=True):
     if use_preset_operation:
-        params = get_params_to_query_store_data(cursor)
+        params = get_params_to_query_store_data(cursor, include_dlc=include_dlc)
         data = send_post_request_to_api(params, verbose=verbose)
     else:
         json_data = get_json_data_to_query_store_data(
