@@ -44,11 +44,17 @@ Alternatively:
 
 - [`nikop/epic-games-ratings`][madjoki-egs-ratings]
 - [`ToutinRoger/EpicGraphQL`][egs-api-graphql]
+- [`woctezuma/Steam-Bayesian-Average`][Steam-Bayesian-Average]
+- Bayesian average [on Wikipedia][bayes-wiki]
+- Paul Masurel, [Of Bayesian average and star ratings][bayes-fulmicoton], March 2013
 
 <!-- Definitions -->
 
 [madjoki-egs-ratings]: <https://github.com/nikop/epic-games-ratings>
 [egs-api-graphql]: <https://github.com/ToutinRoger/EpicGraphQL>
+[bayes-wiki]: <https://en.wikipedia.org/wiki/Bayesian_average>
+[bayes-fulmicoton]: <https://fulmicoton.com/posts/bayesian_rating/>
+[Steam-Bayesian-Average]: <https://github.com/woctezuma/Steam-Bayesian-Average>
 [colab-notebook]: <https://colab.research.google.com/github/woctezuma/epic-games-ratings/blob/colab/epic-games-ratings.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
