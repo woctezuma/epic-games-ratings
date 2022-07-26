@@ -25,11 +25,16 @@ def get_params_to_query_store_data(cursor):
     return params
 
 
-def get_json_data_to_query_store_data(cursor, verbose=True):
+def get_json_data_to_query_store_data(cursor, include_dlc=False, verbose=True):
     step = get_num_games_per_query()
 
+    if include_dlc:
+        category_str = ""
+    else:
+        category_str = 'category: "games", '
+
     prefix = "{Catalog {searchStore"
-    param_str = '(category: "games", ' + f"start: {cursor}, count: {step})"
+    param_str = f"({category_str}start: {cursor}, count: {step})"
     slug_str = 'productSlug offerMappings {pageSlug} catalogNs {mappings(pageType: "productHome") {pageSlug}}'
     content_str = "{ paging {count total} elements {title urlSlug " + slug_str + " } }"
     suffix = "}}"
