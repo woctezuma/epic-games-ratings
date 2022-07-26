@@ -29,6 +29,11 @@ To retrieve the ratings associated with every `sandboxId`, run:
 python download_game_ratings.py
 ```
 
+To export trimmed results to JSON and CSV, run:
+```bash
+python export_results.py
+```
+
 Alternatively:
 
 -   Run [`epic-games-ratings.ipynb`][colab-notebook]
