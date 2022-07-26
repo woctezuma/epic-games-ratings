@@ -3,11 +3,12 @@ from src.disk_utils import save_json, load_json, get_store_data_fname
 from src.query_store_data import to_store_data
 
 
-def download_store_data(use_preset_operation=False, verbose=True):
+def download_store_data(use_preset_operation=False, include_dlc=False, verbose=True):
     iter_no = 0
     store_data = to_store_data(
         cursor=compute_cursor(iter_no),
         use_preset_operation=use_preset_operation,
+        include_dlc=include_dlc,
         verbose=verbose,
     )
     save_json(store_data, get_store_data_fname(iter_no))
@@ -19,6 +20,7 @@ def download_store_data(use_preset_operation=False, verbose=True):
         store_data = to_store_data(
             cursor=compute_cursor(iter_no),
             use_preset_operation=use_preset_operation,
+            include_dlc=include_dlc,
             verbose=verbose,
         )
         save_json(store_data, get_store_data_fname(iter_no))
