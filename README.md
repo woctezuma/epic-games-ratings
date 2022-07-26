@@ -39,6 +39,9 @@ Alternatively:
 -   Run [`epic-games-ratings.ipynb`][colab-notebook]
 [![Open In Colab][colab-badge]][colab-notebook]
 
+## Results
+
+A ranking of games sorted by Bayesian average rating is available [here][ranking-url].
 
 ## References
 
@@ -57,4 +60,5 @@ Alternatively:
 [Steam-Bayesian-Average]: <https://github.com/woctezuma/Steam-Bayesian-Average>
 [colab-notebook]: <https://colab.research.google.com/github/woctezuma/epic-games-ratings/blob/colab/epic-games-ratings.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
+[ranking-url]: <https://gist.github.com/woctezuma/4f284efaac738d4f2714dcf83053747f>
 
