@@ -41,4 +41,4 @@ def get_trimmed_game_ratings_fname():
 
 def get_ranking_fname():
     folder_name = get_data_folder()
-    return f"{folder_name}/ranking.csv"
+    return f"{folder_name}/egs_game_ranking.csv"
