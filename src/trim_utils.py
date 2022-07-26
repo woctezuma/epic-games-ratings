@@ -30,5 +30,7 @@ def trim_sandbox_ids_dict(sandbox_ids_dict):
         if sandbox_id not in trimmed_dict.values():
             s = slug.strip()
             trimmed_dict[s] = sandbox_id
+        else:
+            print(f"Skipping {slug}, because dict already contains id = {sandbox_id}.")
 
     return trimmed_dict
