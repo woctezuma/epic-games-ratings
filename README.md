@@ -2,6 +2,8 @@
 
 This repository contains Python code to data-mine ratings at the Epic Games Store (EGS).
 
+![Ranking of games based on the Bayesian average rating][img-cover]
+
 ## Requirements
 
 -   Install the latest version of [Python 3.X][python-download-url].
@@ -53,6 +55,7 @@ A ranking of games sorted by Bayesian average rating is available [here][ranking
 
 <!-- Definitions -->
 
+[img-cover]: <https://github.com/woctezuma/epic-games-ratings/wiki/img/cover.png>
 [madjoki-egs-ratings]: <https://github.com/nikop/epic-games-ratings>
 [egs-api-graphql]: <https://github.com/ToutinRoger/EpicGraphQL>
 [bayes-wiki]: <https://en.wikipedia.org/wiki/Bayesian_average>
