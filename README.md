@@ -13,14 +13,18 @@ pip install -r requirements.txt
 
 ## Usage
 
+To retrieve the `pageSlug` for every store product, run:
 ```bash
 python download_store_products.py
 ```
+Caveat: different store products can be associated with the same `pageSlug`, despite having different `title` values.
 
+To retrieve the `sandboxId` associated with every `pageSlug`, run:
 ```bash
 python download_sandbox_ids.py
 ```
 
+To retrieve the ratings associated with every `sandboxId`, run:
 ```bash
 python download_game_ratings.py
 ```
