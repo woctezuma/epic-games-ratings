@@ -26,12 +26,13 @@ def download_store_data(use_preset_operation=False, verbose=True):
     return num_queries
 
 
-def load_store_products(num_chunks, keyword="pageSlug", verbose=True):
-    products = list()
+def load_slugs_dict(num_chunks, keyword="pageSlug", verbose=True):
+    slugs_dict = dict()
 
     for chunk_no in range(num_chunks):
         store_data = load_json(get_store_data_fname(chunk_no))
         for e in store_data["elements"]:
+            title = e["title"]
             offer_mapping = e["offerMappings"]
             namespace_mapping = e["catalogNs"]["mappings"]
 
@@ -46,11 +47,13 @@ def load_store_products(num_chunks, keyword="pageSlug", verbose=True):
                     slug = p[keyword]
                 except KeyError:
                     continue
-                products.append(slug)
 
-    products = set(products)
+                if slug in slugs_dict:
+                    slugs_dict[slug].append(title)
+                else:
+                    slugs_dict[slug] = [title]
 
     if verbose:
-        print(f"#{keyword}s = {len(products)}")
+        print(f"#{keyword}s = {len(slugs_dict)}")
 
-    return products
+    return slugs_dict
