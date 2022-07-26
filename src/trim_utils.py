@@ -1,4 +1,5 @@
 from src.disk_utils import save_json, get_trimmed_game_ratings_fname
+from src.products import load_slugs_dict
 from src.ratings import is_a_valid_rating
 
 
@@ -16,9 +17,15 @@ def trim_game_ratings(game_ratings, export_to_json=False):
 
 
 def trim_sandbox_ids_dict(sandbox_ids_dict):
+    # This variable is only correct if store data was constrained to the category "games/edition/base".
+    slugs_for_base_games = load_slugs_dict()
+
     trimmed_dict = dict()
 
     for slug, sandbox_id in sorted(sandbox_ids_dict.items(), key=lambda x: x[0]):
+        # NB: the check for positive length is to tackle the edge case where store data is not on the disk.
+        if slug not in slugs_for_base_games and len(slugs_for_base_games) > 0:
+            continue
         if sandbox_id not in trimmed_dict.values():
             s = slug.strip()
             trimmed_dict[s] = sandbox_id
