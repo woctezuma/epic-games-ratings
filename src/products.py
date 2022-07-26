@@ -1,3 +1,5 @@
+import glob
+
 from src.cursor_utils import compute_cursor, compute_num_queries
 from src.disk_utils import save_json, load_json, get_store_data_fname
 from src.query_store_data import to_store_data
@@ -28,7 +30,10 @@ def download_store_data(use_preset_operation=False, include_dlc=False, verbose=T
     return num_queries
 
 
-def load_slugs_dict(num_chunks, keyword="pageSlug", verbose=True):
+def load_slugs_dict(num_chunks=None, keyword="pageSlug", verbose=True):
+    if num_chunks is None:
+        num_chunks = infer_num_chunks()
+
     slugs_dict = dict()
 
     if verbose:
@@ -62,3 +67,8 @@ def load_slugs_dict(num_chunks, keyword="pageSlug", verbose=True):
         print(f"#{keyword}s = {len(slugs_dict)}")
 
     return slugs_dict
+
+
+def infer_num_chunks():
+    fnames = glob.glob(get_store_data_fname("*"))
+    return len(fnames)
