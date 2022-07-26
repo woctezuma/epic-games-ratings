@@ -32,3 +32,8 @@ def get_sandbox_ids_fname():
 def get_game_ratings_fname():
     folder_name = get_data_folder()
     return f"{folder_name}/game_ratings.json"
+
+
+def get_trimmed_game_ratings_fname():
+    folder_name = get_data_folder()
+    return f"{folder_name}/trimmed_game_ratings.json"
