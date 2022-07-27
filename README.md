@@ -1,5 +1,7 @@
 # Epic Games Ratings
 
+[![Code Quality][codacy-image]][codacy]
+
 This repository contains Python code to data-mine ratings at the Epic Games Store (EGS).
 
 ![Ranking of games based on the Bayesian average rating][img-cover]
@@ -56,6 +58,8 @@ A ranking of games sorted by Bayesian average rating is available [here][ranking
 <!-- Definitions -->
 
 [img-cover]: <https://github.com/woctezuma/epic-games-ratings/wiki/img/cover.png>
+[codacy]: <https://www.codacy.com/gh/woctezuma/epic-games-ratings>
+[codacy-image]: <https://api.codacy.com/project/badge/Grade/0e6fdef52e3e4f7b917b42ad49e7ff06>
 [python-download-url]: <https://www.python.org/downloads/>
 [madjoki-egs-ratings]: <https://github.com/nikop/epic-games-ratings>
 [egs-api-graphql]: <https://github.com/ToutinRoger/EpicGraphQL>
