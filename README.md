@@ -56,6 +56,7 @@ A ranking of games sorted by Bayesian average rating is available [here][ranking
 <!-- Definitions -->
 
 [img-cover]: <https://github.com/woctezuma/epic-games-ratings/wiki/img/cover.png>
+[python-download-url]: <https://www.python.org/downloads/>
 [madjoki-egs-ratings]: <https://github.com/nikop/epic-games-ratings>
 [egs-api-graphql]: <https://github.com/ToutinRoger/EpicGraphQL>
 [bayes-wiki]: <https://en.wikipedia.org/wiki/Bayesian_average>
