@@ -49,6 +49,7 @@ A ranking of games sorted by Bayesian average rating is available [here][ranking
 
 ## References
 
+- Official ranking of [*Top Player Reviewed PC Titles*][egs-official-ranking], computed by Epic Games
 - [`nikop/epic-games-ratings`][madjoki-egs-ratings]
 - [`ToutinRoger/EpicGraphQL`][egs-api-graphql]
 - [`woctezuma/Steam-Bayesian-Average`][Steam-Bayesian-Average]
@@ -69,4 +70,4 @@ A ranking of games sorted by Bayesian average rating is available [here][ranking
 [colab-notebook]: <https://colab.research.google.com/github/woctezuma/epic-games-ratings/blob/colab/epic-games-ratings.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 [ranking-url]: <data/egs_game_ranking.csv>
-
+[egs-official-ranking]: <https://store.epicgames.com/collection/top-player-reviewed>
