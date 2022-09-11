@@ -51,6 +51,8 @@ A ranking of games sorted by Bayesian average rating is available [here][ranking
 
 - Official ranking of [*Top Player Reviewed PC Titles*][egs-official-ranking], computed by Epic Games
 - [`nikop/epic-games-ratings`][madjoki-egs-ratings]
+- [`woctezuma/epic-games-achievements`][epic-games-achievements]
+- [`woctezuma/epic-games-player-estimates`][epic-games-player-estimates]
 - [`ToutinRoger/EpicGraphQL`][egs-api-graphql]
 - [`woctezuma/Steam-Bayesian-Average`][Steam-Bayesian-Average]
 - Bayesian average [on Wikipedia][bayes-wiki]
@@ -63,6 +65,8 @@ A ranking of games sorted by Bayesian average rating is available [here][ranking
 [codacy-image]: <https://api.codacy.com/project/badge/Grade/0e6fdef52e3e4f7b917b42ad49e7ff06>
 [python-download-url]: <https://www.python.org/downloads/>
 [madjoki-egs-ratings]: <https://github.com/nikop/epic-games-ratings>
+[epic-games-achievements]: <https://github.com/woctezuma/epic-games-achievements>
+[epic-games-player-estimates]: <https://github.com/woctezuma/epic-games-player-estimates>
 [egs-api-graphql]: <https://github.com/ToutinRoger/EpicGraphQL>
 [bayes-wiki]: <https://en.wikipedia.org/wiki/Bayesian_average>
 [bayes-fulmicoton]: <https://fulmicoton.com/posts/bayesian_rating/>
