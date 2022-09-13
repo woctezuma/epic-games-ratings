@@ -47,6 +47,8 @@ Alternatively:
 
 A ranking of games sorted by Bayesian average rating is available [here][ranking-url].
 
+NB: the ranking does not feature [delisted games][delisted-games].
+
 ## References
 
 - Official ranking of [*Top Player Reviewed PC Titles*][egs-official-ranking], computed by Epic Games
@@ -64,6 +66,7 @@ A ranking of games sorted by Bayesian average rating is available [here][ranking
 [codacy]: <https://www.codacy.com/gh/woctezuma/epic-games-ratings>
 [codacy-image]: <https://api.codacy.com/project/badge/Grade/0e6fdef52e3e4f7b917b42ad49e7ff06>
 [python-download-url]: <https://www.python.org/downloads/>
+[delisted-games]: <https://github.com/woctezuma/epic-games-ratings/wiki/Delisted-Games>
 [madjoki-egs-ratings]: <https://github.com/nikop/epic-games-ratings>
 [epic-games-achievements]: <https://github.com/woctezuma/epic-games-achievements>
 [epic-games-player-estimates]: <https://github.com/woctezuma/epic-games-player-estimates>
