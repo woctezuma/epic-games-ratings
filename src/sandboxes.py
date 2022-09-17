@@ -13,6 +13,7 @@ def download_sandbox_ids_dict(slugs, save_every=60, verbose=True):
     sandbox_ids_dict = load_sandbox_ids_dict()
     duplicate_sandbox_ids_dict = load_duplicate_sandbox_ids_dict()
 
+    slugs = sorted(slugs, key=lambda x: (len(x), x))
     for iter, s in enumerate(slugs, start=1):
         if s in sandbox_ids_dict and is_a_valid_sandbox_id(sandbox_ids_dict[s]):
             continue
