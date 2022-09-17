@@ -25,7 +25,7 @@ def download_sandbox_ids_dict(slugs, save_every=60, verbose=True):
         if verbose and id is not None:
             print(f"{s} -> {id}")
 
-        if id not in sandbox_ids_dict.values():
+        if id not in sandbox_ids_dict.values() or s in sandbox_ids_dict:
             sandbox_ids_dict[s] = id
         else:
             duplicate_sandbox_ids_dict[s] = id
