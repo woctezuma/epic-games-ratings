@@ -11,9 +11,12 @@ def is_a_valid_sandbox_id(sandbox_id):
 
 def download_sandbox_ids_dict(slugs, save_every=60, verbose=True):
     sandbox_ids_dict = load_sandbox_ids_dict()
+    duplicate_sandbox_ids_dict = load_duplicate_sandbox_ids_dict()
 
     for iter, s in enumerate(slugs, start=1):
         if s in sandbox_ids_dict and is_a_valid_sandbox_id(sandbox_ids_dict[s]):
+            continue
+        if s in duplicate_sandbox_ids_dict:
             continue
 
         id = to_sandbox_id(s, verbose=verbose)
@@ -21,14 +24,19 @@ def download_sandbox_ids_dict(slugs, save_every=60, verbose=True):
         if verbose and id is not None:
             print(f"{s} -> {id}")
 
-        sandbox_ids_dict[s] = id
+        if id not in sandbox_ids_dict.values():
+            sandbox_ids_dict[s] = id
+        else:
+            duplicate_sandbox_ids_dict[s] = id
 
         if iter % save_every == 0:
             save_json(sandbox_ids_dict, get_sandbox_ids_fname())
+            save_json(duplicate_sandbox_ids_dict, get_duplicate_sandbox_ids_fname())
             if verbose:
                 print(f"Saving {iter}/{len(slugs)}")
 
     save_json(sandbox_ids_dict, get_sandbox_ids_fname())
+    save_json(duplicate_sandbox_ids_dict, get_duplicate_sandbox_ids_fname())
     if verbose:
         print(f"Finally saving {iter}/{len(slugs)}")
 
