@@ -1,4 +1,4 @@
-from src.disk_utils import save_json, get_game_ratings_fname, load_json
+from src.disk_utils import save_json, get_game_ratings_fname, safe_load_json
 from src.query_game_rating import to_game_rating
 
 
@@ -43,8 +43,5 @@ def download_game_ratings(sandbox_ids, save_every=60, verbose=True):
 
 
 def load_game_ratings():
-    try:
-        game_ratings = load_json(get_game_ratings_fname())
-    except FileNotFoundError:
-        game_ratings = dict()
+    game_ratings = safe_load_json(get_game_ratings_fname())
     return game_ratings

@@ -1,4 +1,4 @@
-from src.disk_utils import save_json, get_sandbox_ids_fname, load_json
+from src.disk_utils import save_json, get_sandbox_ids_fname, safe_load_json
 from src.query_sandbox_id import to_sandbox_id
 
 
@@ -35,8 +35,5 @@ def download_sandbox_ids_dict(slugs, save_every=60, verbose=True):
 
 
 def load_sandbox_ids_dict():
-    try:
-        sandbox_ids_dict = load_json(get_sandbox_ids_fname())
-    except FileNotFoundError:
-        sandbox_ids_dict = dict()
+    sandbox_ids_dict = safe_load_json(get_sandbox_ids_fname())
     return sandbox_ids_dict

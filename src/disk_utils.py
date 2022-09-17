@@ -13,6 +13,14 @@ def load_json(filename):
     return data
 
 
+def safe_load_json(filename):
+    try:
+        data = load_json(filename)
+    except FileNotFoundError:
+        data = dict()
+    return data
+
+
 def get_data_folder():
     folder_name = "data"
     pathlib.Path(folder_name).mkdir(exist_ok=True)
