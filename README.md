@@ -6,6 +6,10 @@ This repository contains Python code to data-mine ratings at the Epic Games Stor
 
 ![Ranking of games based on the Bayesian average rating][img-cover]
 
+## Disclaimer
+
+The leak has been plugged, so the code cannot fetch `ratingCount` directly from Epic Games anymore.
+
 ## Requirements
 
 -   Install the latest version of [Python 3.X][python-download-url].
