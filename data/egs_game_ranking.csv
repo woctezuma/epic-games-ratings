@@ -1,688 +1,709 @@
-Game slug,Epic Games rating,Number of raters, Bayes rating
-red-dead-redemption-2,4.90,96851,4.87
-satisfactory,4.88,27406,4.79
-the-witcher-3-wild-hunt,4.89,13672,4.74
-marvels-spider-man-remastered,4.88,13120,4.73
-final-fantasy-vii-remake-intergrade,4.85,14699,4.72
-hitman-3,4.79,20068,4.71
-sid-meiers-civilization-vi,4.73,54432,4.70
-football-manager-2022,4.80,13583,4.69
-grand-theft-auto-v,4.69,546030,4.69
-snowrunner,4.76,19816,4.69
-genshin-impact,4.69,207540,4.68
-hades,4.92,5977,4.68
-borderlands-3,4.69,146432,4.68
-enter-the-gungeon,4.85,8056,4.68
-borderlands-2,4.77,12636,4.67
-subnautica,4.83,7325,4.66
-sifu,4.80,8828,4.66
-batman-arkham-knight,4.82,6926,4.65
-farming-simulator-19,4.72,15751,4.65
-rise-of-the-tomb-raider,4.69,25747,4.65
-god-of-war,4.89,4538,4.65
-metro-exodus,4.80,7010,4.65
-slime-rancher,4.83,5215,4.64
-frostpunk,4.73,10408,4.64
-shadow-of-the-tomb-raider,4.65,62714,4.63
-bioshock-infinite-complete-edition,4.69,17499,4.63
-horizon-zero-dawn-complete-edition,4.77,6661,4.63
-detroit-become-human,4.87,3626,4.62
-tomb-raider,4.67,19190,4.62
-into-the-breach,4.85,3821,4.62
-anno-1800,4.83,4064,4.62
-kingdom-hearts-hd-1-5-2-5-remix,4.82,4001,4.62
-kingdom-come-deliverance,4.71,8525,4.62
-cities-skylines,4.65,23137,4.62
-farming-simulator-22,4.72,7312,4.61
-celeste,4.92,2384,4.61
-bioshock-remastered,4.64,23233,4.61
-europa-universalis-iv,4.70,7843,4.61
-assassins-creed-odyssey,4.75,5067,4.61
-metro-last-light-redux,4.73,5872,4.61
-darkest-dungeon,4.75,5018,4.61
-pc-building-simulator,4.67,11404,4.61
-unrailed-e19729,4.64,21496,4.61
-mount-and-blade-2,4.74,5315,4.61
-overcooked-2,4.75,4851,4.61
-death-stranding-directors-cut,4.84,2875,4.60
-a-plague-tale-innocence,4.67,9988,4.60
-ark,4.62,34952,4.60
-neon-abyss,4.68,7846,4.60
-the-long-dark,4.73,4409,4.59
-for-the-king,4.71,5156,4.59
-darkest-dungeon-2,4.67,7285,4.59
-trackmania,4.68,6428,4.59
-warframe,4.64,11169,4.59
-the-binding-of-isaac-repentance,4.90,1785,4.59
-lego-star-wars-the-skywalker-saga,4.81,2482,4.59
-jurassic-world-evolution-2,4.74,3607,4.59
-chivalry-2,4.62,17531,4.59
-loop-hero,4.68,5866,4.59
-supraland,4.61,24846,4.59
-nioh-2-the-complete-edition,4.80,2379,4.59
-batman-arkham-city,4.78,2619,4.59
-riders-republic,4.73,3452,4.59
-metro-2033-redux,4.68,5179,4.58
-sonic-mania,4.80,2128,4.58
-jurassic-world-evolution,4.63,8819,4.58
-days-gone,4.70,3600,4.58
-dying-light,4.72,3038,4.58
-disco-elysium,4.87,1472,4.58
-against-the-storm,4.81,1776,4.58
-assassins-creed-origins,4.69,3647,4.58
-elite-dangerous,4.64,6409,4.58
-totally-accurate-battle-simulator,4.78,1953,4.57
-doom-64,4.66,4676,4.57
-kingdom-hearts-iii,4.79,1848,4.57
-hitman,4.64,5908,4.57
-control,4.60,14836,4.57
-wolfenstein-the-new-order,4.58,59700,4.57
-risk-of-rain-2,4.87,1282,4.57
-rogue-legacy-2,4.86,1291,4.57
-dead-cells,4.87,1239,4.57
-prey,4.60,12490,4.57
-my-time-at-portia,4.67,3643,4.57
-wargame-red-dragon,4.70,2722,4.57
-subnautica-below-zero,4.78,1662,4.57
-ooblets,4.87,1164,4.57
-kena-bridge-of-spirits,4.68,3118,4.57
-among-us,4.58,24743,4.57
-tony-hawks-pro-skater-1-and-2,4.83,1215,4.57
-thehunter-call-of-the-wild,4.59,13622,4.57
-multiversus,4.57,54191,4.56
-assassins-creed-valhalla,4.59,11382,4.56
-remnant-from-the-ashes,4.59,11225,4.56
-total-war-warhammer-ii,4.81,1137,4.56
-rimworld,4.89,828,4.56
-pathfinder-wrath-of-the-righteous,4.76,1277,4.56
-faster-than-light,4.79,1109,4.56
-cyberpunk-2077,4.57,24329,4.56
-oxygen-not-included,4.85,845,4.56
-total-war-warhammer,4.59,7862,4.56
-pillars-of-eternity,4.65,2619,4.56
-tiny-tinas-wonderlands,4.57,20163,4.56
-state-of-decay-2-juggernaut-edition,4.74,1276,4.56
-dying-light-2-stay-human,4.59,6892,4.56
-nioh-the-complete-edition,4.58,9854,4.56
-outerwilds,4.90,659,4.56
-inscryption-6b29ab,4.85,733,4.56
-mudrunner,4.63,2881,4.56
-alien-isolation,4.60,4791,4.56
-batman-arkham-asylum,4.66,2000,4.56
-rainbow-six-siege,4.58,8180,4.55
-inside,4.70,1416,4.55
-ring-of-pain,4.57,13338,4.55
-rising-storm-2-vietnam,4.63,2678,4.55
-prison-architect,4.60,4196,4.55
-mechwarrior-5,4.60,4083,4.55
-the-crew-2,4.65,1966,4.55
-walking-dead-definitive-series,4.85,626,4.55
-the-outer-worlds,4.63,2316,4.55
-dungeons-3,4.67,1495,4.55
-this-war-of-mine,4.72,1025,4.55
-path-of-exile,4.61,2923,4.55
-watch-dogs-2,4.58,5939,4.55
-salt-and-sanctuary,4.61,2903,4.55
-house-flipper,4.72,985,4.55
-marvels-guardians-of-the-galaxy,4.74,842,4.55
-surviving-mars,4.60,3206,4.55
-world-war-z,4.56,16110,4.55
-moonlighter,4.70,1028,4.55
-nuclear-throne,4.80,590,4.55
-valorant,4.55,144343,4.55
-ghostrunner,4.72,851,4.55
-mafia-definitive-edition,4.62,1868,4.55
-unreal-tournament,4.68,1012,4.55
-the-wolf-among-us,4.83,474,4.55
-diabotical,4.79,535,4.55
-rogue-legacy,4.61,2024,4.55
-the-messenger,4.79,510,4.55
-my-time-at-sandrock,4.68,848,4.55
-far-cry-5,4.61,1750,4.55
-bugsnax,4.82,397,4.55
-desperados-3,4.87,333,4.54
-old-world,4.63,1244,4.54
-shadow-tactics,4.77,465,4.54
-barony,4.69,699,4.54
-zombie-army-4-dead-war,4.69,699,4.54
-disney-dreamlight-valley,4.70,612,4.54
-night-in-the-woods,4.71,557,4.54
-bad-north,4.66,786,4.54
-rollercoaster-tycoon-3-complete-edition,4.69,616,4.54
-dragon-quest-xi-s-echoes-of-an-elusive-age,4.85,285,4.54
-horizon-chase-turbo,4.61,1234,4.54
-overcooked,4.69,562,4.54
-skul-the-hero-slayer,4.69,529,4.54
-tetris-effect,4.85,251,4.54
-pikuniku,4.72,423,4.54
-timberborn,4.68,517,4.54
-the-escapists-2,4.58,1817,4.54
-in-sound-mind,4.58,1803,4.54
-blasphemous,4.89,196,4.54
-spellbreak,4.61,951,4.54
-xcom-2,4.55,6958,4.54
-deponia-the-complete-journey,4.63,732,4.54
-rayman-legends,4.74,327,4.54
-the-witness,4.68,466,4.54
-neo-the-world-ends-with-you,4.86,198,4.54
-insurgency-sandstorm,4.59,1267,4.54
-void-bastards,4.61,901,4.54
-crashlands,4.67,484,4.54
-torchlight-2,4.57,2097,4.54
-far-cry-4,4.64,609,4.54
-darksiders2,4.62,758,4.54
-cave-story-plus,4.77,262,4.54
-fall-guys,4.54,1017941,4.54
-spiritfarer,4.89,170,4.54
-rocket-league,4.54,347728,4.54
-hyper-light-drifter,4.71,340,4.54
-total-war-warhammer-3,4.61,819,4.54
-far-cry-primal,4.67,426,4.54
-yokus-island-express,4.71,323,4.54
-medieval-dynasty,4.62,678,4.54
-far-cry-3,4.65,462,4.54
-the-riftbreaker,4.73,263,4.54
-the-talos-principle,4.73,263,4.54
-atomicrops,4.87,151,4.54
-a-short-hike,4.83,169,4.54
-tyranny,4.58,1192,4.54
-hell-is-other-demons,4.70,293,4.54
-going-medieval,4.61,661,4.54
-supraland-six-inches-under-dd0220,4.77,202,4.54
-soma,4.71,270,4.54
-immortals-fenyx-rising,4.60,749,4.54
-octopath-traveler,4.84,152,4.54
-crysis-2-remastered,4.62,560,4.54
-lego-batman-2,4.64,446,4.54
-songs-of-conquest,4.70,280,4.54
-tropico-6,4.66,367,4.54
-dishonored-definitive-edition,4.74,221,4.54
-carcassonne,4.71,258,4.54
-empires-of-the-undergrowth,4.75,203,4.54
-might-and-magic-heroes-3,4.82,152,4.54
-pathfinder-kingmaker,4.55,3624,4.54
-ruined-king-a-league-of-legends-story,4.61,573,4.54
-legends-of-runeterra,4.64,403,4.54
-kingdom-hearts-hd-2-8-final-chapter-prologue,4.74,200,4.54
-conan-exiles,4.57,1250,4.54
-assassins-creed-2,4.68,279,4.54
-beyond-two-souls,4.66,316,4.54
-south-park-the-fractured-but-whole,4.79,150,4.54
-crysis-3-remastered,4.62,458,4.54
-ancestors,4.62,438,4.54
-the-eternal-cylinder,4.81,132,4.54
-griftlands,4.80,137,4.54
-the-alto-collection,4.66,293,4.54
-assassins-creed-unity,4.58,817,4.54
-the-stanley-parable,4.71,182,4.54
-south-park-the-stick-of-truth,4.81,113,4.54
-tunic,4.86,94,4.54
-20xx,4.62,364,4.54
-black-book,4.88,85,4.54
-sunless-sea,4.62,350,4.54
-sludge-life,4.72,157,4.54
-fist-forged-in-shadow-torch,4.59,539,4.54
-steep,4.61,391,4.54
-hob,4.60,425,4.54
-untitled-goose-game,4.81,98,4.54
-phoenix-point,4.55,1965,4.54
-the-telltale-batman,4.74,129,4.54
-transport-fever-2,4.69,166,4.54
-doom-1993,4.82,83,4.54
-suchart-genius-artist-simulator,4.74,114,4.54
-alan-wake-remastered,4.58,495,4.54
-scott-pilgrim-vs-the-world-the-game,4.77,88,4.54
-rainbow-six-extraction,4.57,600,4.54
-limbo,4.65,179,4.54
-moving-out,4.58,459,4.54
-ghost-recon-wildlands,4.56,833,4.54
-grindstone,4.87,60,4.54
-walking-dead-season-one,4.83,66,4.54
-ghost-recon-breakpoint,4.54,4586,4.54
-superhot,4.67,139,4.54
-phantom-brigade,4.62,221,4.54
-titan-quest,4.74,91,4.54
-anno-1404,4.82,65,4.54
-the-dungeon-of-naheulbeuk,4.71,105,4.54
-fez,4.73,93,4.54
-art-of-rally,4.88,52,4.54
-hand-of-fate-2,4.56,729,4.54
-super-meat-boy,4.66,141,4.54
-baldurs-gate-enhanced-edition,4.81,63,4.54
-northgard,4.76,76,4.54
-story-of-seasons-friends-of-mineral-town,4.84,56,4.54
-symphony-of-war-60a76e,4.63,179,4.54
-shadow-tactics-aikos-choice-5678c1,4.79,66,4.54
-solar-ash,4.70,102,4.54
-syberia-the-world-before,4.68,116,4.54
-hot-wheels-unleashed,4.59,306,4.54
-lego-batman-3,4.57,483,4.54
-darksiders,4.56,666,4.54
-warhammer-40000-chaos-gate-daemonhunters,4.58,364,4.54
-fuser,4.73,83,4.54
-assassins-creed-rogue,4.59,295,4.54
-wolfenstein-the-old-blood,4.59,281,4.54
-what-remains-of-edith-finch,4.76,67,4.54
-amnesia-the-dark-descent,4.59,268,4.54
-bloons-td-6-bf95a0,4.68,101,4.54
-wrc-8,4.61,193,4.54
-f1-manager-2022,4.56,583,4.54
-transistor,4.66,114,4.54
-quake,4.82,49,4.54
-curse-of-the-dead-gods,4.64,129,4.54
-the-king-of-fighters-xv,4.61,180,4.54
-kingdom-hearts-melody-of-memory,4.70,80,4.54
-the-end-is-nigh,4.91,35,4.54
-doki-doki-literature-club-plus,4.84,43,4.54
-terraforming-mars-18c3ad,4.54,2591,4.54
-the-last-campfire,4.85,40,4.54
-this-is-the-police,4.78,51,4.54
-airborne-kingdom,4.73,62,4.54
-journey,4.78,49,4.54
-divine-knockout,4.75,55,4.54
-coromon-d4ef84,4.68,81,4.54
-doom-ii,4.86,36,4.54
-we-were-here-forever,4.64,111,4.54
-spongebob-squarepants-battle-for-bikini-bottom-rehydrated,4.69,74,4.54
-walking-dead-final-season,4.75,53,4.54
-haven,4.86,35,4.54
-journey-to-the-savage-planet,4.65,98,4.53
-cozy-grove,4.79,43,4.53
-expeditions-rome,4.70,66,4.53
-baldurs-gate-2-enhanced-edition,4.93,27,4.53
-heavy-rain,4.58,233,4.53
-thimbleweed-park,4.63,107,4.53
-shadowrun-hong-kong,4.58,218,4.53
-deaths-door,4.62,114,4.53
-oddworld-soulstorm,4.68,66,4.53
-rayman-origins,4.82,33,4.53
-rime,4.66,74,4.53
-watch-dogs,4.54,1763,4.53
-the-legend-of-heroes-trails-of-cold-steel-iv,4.88,26,4.53
-trials-rising,4.65,77,4.53
-far-lone-sails,4.88,24,4.53
-the-life-and-suffering-of-sir-brante,4.80,30,4.53
-walking-dead-season-two,4.90,21,4.53
-mutazione,4.66,61,4.53
-destroy-all-humans,4.63,80,4.53
-abzu,4.59,135,4.53
-citizen-sleeper-944858,4.76,33,4.53
-operation-tango,4.71,41,4.53
-wildermyth-593344,4.71,41,4.53
-five-nights-at-freddys-security-breach-8dee2a,4.58,156,4.53
-before-we-leave,4.63,73,4.53
-wilmots-warehouse,4.62,81,4.53
-super-meat-boy-forever,4.83,23,4.53
-world-of-goo,4.69,42,4.53
-partisans-1941,4.60,98,4.53
-destroy-all-humans-2-reprobed,4.63,67,4.53
-the-drone-racing-league-simulator,4.74,31,4.53
-towerfall-ascension,4.74,31,4.53
-the-pathless,4.65,54,4.53
-what-the-golf,4.71,35,4.53
-kid-a-mnesia-exhibition,4.70,37,4.53
-rogue-lords,4.70,37,4.53
-superliminal,4.71,34,4.53
-kingdoms-of-amalur-re-reckoning,4.58,131,4.53
-townscaper,4.68,40,4.53
-doom-3,4.61,77,4.53
-tales-of-the-neon-sea,4.56,227,4.53
-valiant-hearts,4.76,25,4.53
-walking-dead-a-new-frontier,4.76,25,4.53
-dandara,4.57,155,4.53
-far-changing-tides,4.71,31,4.53
-kings-bounty-the-legend-b69320,4.65,46,4.53
-ghost-recon-future-soldier,4.80,20,4.53
-oxenfree,4.59,94,4.53
-motogp-21,4.59,92,4.53
-sakuna-of-rice-and-ruin,4.73,26,4.53
-slipways,4.68,34,4.53
-revita-d8ff55,4.74,23,4.53
-the-textorcist,4.60,72,4.53
-neighbours-back-from-hell,4.72,25,4.53
-tales-from-the-borderlands,4.70,27,4.53
-ruiner,4.57,125,4.53
-kings-bounty-crossworlds-da093a,4.73,22,4.53
-costume-quest,4.62,50,4.53
-the-forgotten-city,4.65,37,4.53
-stick-it-to-the-man,4.60,65,4.53
-mythforce-d2710b,4.55,269,4.53
-carrion,4.63,43,4.53
-tribes-of-midgard,4.57,113,4.53
-ape-out,4.66,32,4.53
-out-of-the-park-baseball-23-09e3fa,4.62,45,4.53
-session-skate-sim,4.57,101,4.53
-eastward,4.64,33,4.53
-strange-horticulture-360e80,4.64,33,4.53
-hello-neighbor-hide-and-seek,4.58,73,4.53
-hypercharge-unboxed,4.70,20,4.53
-breathedge,4.60,50,4.53
-wrc-9,4.55,204,4.53
-far-cry-3-blood-dragon,4.60,48,4.53
-axiom-verge,4.56,117,4.53
-anno-1701,4.62,34,4.53
-cat-cafe-manager-68bd0d,4.62,34,4.53
-warhammer-40000-battlesector,4.61,36,4.53
-this-is-the-police-2,4.63,27,4.53
-ticket-to-ride,4.55,150,4.53
-last-day-of-june,4.61,31,4.53
-nexomon-extinction,4.63,24,4.53
-roguebook,4.57,63,4.53
-fell-seal-arbiters-mark,4.59,37,4.53
-we-are-football,4.62,21,4.53
-axiom-verge-2,4.58,38,4.53
-fights-in-tight-spaces,4.58,36,4.53
-universe-sandbox,4.56,63,4.53
-horace,4.57,44,4.53
-battle-chasers-nightwar,4.58,31,4.53
-unmetal,4.58,31,4.53
-the-division,4.54,233,4.53
-baldurs_gate_dark_alliance-8a2e77,4.60,20,4.53
-travellers-rest-c115d1,4.56,50,4.53
-shadowrun-dragonfall,4.54,211,4.53
-grime,4.56,43,4.53
-uno,4.55,56,4.53
-sonic-origins,4.54,148,4.53
-dark-deception,4.55,49,4.53
-superhot-mind-control-delete,4.55,31,4.53
-hardspace-shipbreaker,4.55,29,4.53
-the-silent-age-eb6972,4.55,29,4.53
-souldiers-3f612b,4.54,63,4.53
-card-shark-8f95f0,4.55,20,4.53
-diplomacy-is-not-an-option-9c6bea,4.54,48,4.53
-sable,4.54,41,4.53
-panzer-corps-2,4.54,35,4.53
-where-the-water-tastes-like-wine,4.53,32,4.53
-the-tenants,4.53,78,4.53
-mars-horizon,4.52,23,4.53
-stories-untold,4.52,27,4.53
-hextech-mayhem-a-league-of-legends-story,4.52,29,4.53
-ys-ix-monstrum-nox,4.52,31,4.53
-deliver-us-the-moon,4.50,24,4.53
-wrc-10,4.53,232,4.53
-aragami-2,4.52,82,4.53
-forgive-me-father-133635,4.50,36,4.53
-the-surge,4.51,55,4.53
-spirit-of-the-island,4.48,25,4.53
-trials-evolution,4.48,27,4.53
-hue,4.53,396,4.53
-warpips-57e2c4,4.48,31,4.53
-poly-bridge-2,4.50,50,4.53
-legend-of-keepers,4.49,39,4.53
-anno-2205,4.51,72,4.53
-observation,4.45,22,4.53
-samurai-shodown-neogeo-collection,4.51,79,4.53
-road-96,4.51,83,4.53
-yes-your-grace,4.51,84,4.53
-darksiders-genesis,4.50,62,4.53
-sherlock-holmes-the-devils-daughter,4.49,53,4.53
-minit,4.51,98,4.53
-totally-reliable-delivery-service,4.51,104,4.53
-war-mongrels,4.45,31,4.53
-imagine-earth-7498e4,4.40,20,4.53
-surgeon-simulator-2,4.41,22,4.53
-democracy-4,4.47,43,4.53
-unexplored-2,4.43,28,4.53
-3-out-of-10-season-2,4.47,47,4.53
-my-lovely-wife-bef07f,4.40,25,4.53
-aztez,4.44,36,4.53
-outward,4.52,263,4.53
-gamedec,4.41,29,4.53
-chorus,4.47,57,4.53
-industries-of-titan,4.50,111,4.53
-hello-neighbor,4.53,1074,4.53
-the-caligula-effect-2-a51f60,4.41,32,4.53
-black-widow-recharged,4.40,30,4.53
-train-valley-ead642,4.39,28,4.53
-dark-deity-0b08d1,4.35,23,4.53
-ravenous-devils-7a89e1,4.43,44,4.53
-warhammer-40000-gladius-relics-of-war,4.41,37,4.53
-parkitect,4.30,20,4.53
-good-company,4.47,74,4.53
-the-last-stand-aftermath,4.42,43,4.53
-deep-sky-derelicts,4.39,36,4.53
-kings-bounty-dark-side-c3066f,4.40,40,4.53
-train-sim-world-3,4.49,124,4.53
-eiyuden-chronicle-rising,4.42,48,4.53
-scrapnaut,4.39,38,4.53
-sundered-eldritch-edition,4.50,164,4.53
-costume-quest-2,4.42,50,4.53
-darksiders3,4.48,107,4.53
-spellforce-3,4.45,69,4.53
-sherlock-holmes-chapter-one,4.50,174,4.53
-layers-of-fear,4.49,134,4.53
-cryofall-331358,4.40,45,4.53
-baldurs-gate-dark-alliance-2-14db6b,4.33,30,4.53
-blazing-beaks-3d4864,4.33,30,4.53
-rims-racing,4.33,30,4.53
-othercide-19bfa0,4.37,38,4.53
-prehistoric-kingdom,4.37,38,4.53
-heros-hour-871285,4.36,36,4.53
-fishing-north-atlantic-9fbc5c,4.33,33,4.53
-lets-build-a-zoo,4.33,33,4.53
-bassmaster-fishing-2022-ec4015,4.27,26,4.53
-far-cry,4.38,45,4.53
-anno-2070,4.31,32,4.53
-death-coming,4.45,87,4.53
-startup-panic,4.24,25,4.53
-starsand,4.26,27,4.53
-q-u-b-e-2,4.45,89,4.53
-humankind,4.52,581,4.53
-ken-follets-the-pillars-of-the-earth,4.51,340,4.53
-the-lions-song,4.40,60,4.53
-townsmen-a-kingdom-rebuilt-07c09d,4.31,36,4.53
-encased,4.36,47,4.53
-genesis-alpha-one,4.36,47,4.53
-rebel-galaxy-outlaw,4.47,132,4.53
-phantasy-star-online-2,4.52,650,4.53
-demons-tilt,4.50,261,4.53
-tacoma,4.37,54,4.53
-family-man-bbc679,4.21,28,4.53
-grand-tactician-the-civil-war-18611865-6c21fc,4.19,27,4.53
-assassins-creed-1,4.46,129,4.53
-atom-rpg-3adb54,4.34,50,4.53
-twin-mirror,4.27,37,4.53
-paradigm-875c5c,4.49,239,4.53
-gravewood-high,4.17,29,4.53
-dead-age-2,4.00,20,4.53
-elex,4.33,55,4.53
-martha-is-dead,4.22,36,4.53
-redout-enhanced-edition,4.49,264,4.53
-centipede-recharged,4.37,70,4.53
-oddworld-new-n-tasty,4.42,103,4.53
-aer-memories-of-old,4.46,160,4.53
-lake,3.95,20,4.53
-figment,4.41,100,4.53
-little-inferno,4.33,61,4.53
-faeria,4.46,176,4.53
-steelrising,4.24,46,4.53
-ghostwire-tokyo,4.52,1082,4.53
-torchlight,4.41,112,4.53
-halcyon-6,4.43,134,4.53
-creature-in-the-well,4.40,104,4.53
-might-and-magic-chess-royale,4.47,225,4.53
-trigon-ce1936,4.16,38,4.53
-submerged-041523,3.96,25,4.53
-necrosmith-b2ef15,4.42,130,4.53
-the-world-next-door,4.09,35,4.53
-might-and-magic-heroes-7,4.36,90,4.53
-weird-west-906661,4.39,119,4.53
-edge-of-eternity,3.71,21,4.53
-while-true-learn,4.51,829,4.53
-deathloop,4.51,834,4.53
-the-first-tree,4.16,51,4.53
-disciples-liberation,4.39,137,4.53
-sonic-colors-ultimate,4.42,175,4.53
-cartel-tycoon,4.33,97,4.53
-among-trees,4.35,112,4.53
-tharsis,4.16,55,4.53
-alan-wake-american-nightmare,4.26,76,4.53
-lego-batman,4.49,497,4.53
-patron-4ab1c1,3.97,37,4.53
-gone-home,4.13,52,4.53
-assassins-creed-3,4.44,233,4.53
-absolute-drift,4.42,195,4.53
-werewolf-the-apocalypse-earthblood,4.15,59,4.53
-far-cry-2,4.11,54,4.53
-railway-empire,4.52,1998,4.53
-train-life,3.89,36,4.53
-alan-wake,4.47,391,4.53
-port-royale-4,4.04,49,4.53
-shadowrun-returns,4.45,296,4.53
-riverbond-782aa4,4.49,584,4.53
-speed-brawl,4.28,97,4.53
-arcadegeddon,4.50,784,4.53
-just-die-already,4.52,2177,4.53
-house-party-ae8b27,4.38,167,4.53
-conarium,4.02,50,4.53
-solitairica,4.47,445,4.53
-lumberjacks-dynasty,4.04,57,4.53
-necromunda-hired-gun,4.26,104,4.53
-ashen,4.25,102,4.53
-crayta,4.20,88,4.53
-the-suicide-of-rachel-foster-1dc01b,4.11,70,4.53
-iron-harvest,4.33,153,4.53
-elex-ii,4.27,119,4.53
-starship-troopers-terran-command,4.20,95,4.53
-star-trek-online,4.47,524,4.53
-the-guild-3,4.11,76,4.53
-ranch-simulator,4.43,318,4.53
-brothers-a-tale-of-two-sons,4.48,633,4.53
-pathway,4.45,406,4.53
-the-fall,4.20,99,4.53
-dead-by-daylight,4.53,67180,4.53
-the-escapists,4.47,553,4.53
-kingdom-new-lands,4.51,1645,4.53
-farmers-dynasty,3.97,61,4.53
-mortal-shell,4.36,202,4.53
-biomutant,4.35,192,4.53
-kings-bounty-ii,4.19,103,4.53
-crying-suns,4.49,916,4.53
-stubbs-the-zombie-in-rebel-without-a-pulse,4.37,230,4.53
-crsed-f-o-a-d,4.44,433,4.53
-far-cry-new-dawn,4.40,319,4.53
-yooka-laylee-and-the-impossible-lair,4.40,326,4.53
-ghostbusters-the-video-game-remastered,4.42,395,4.53
-train-valley-2-3606da,4.01,84,4.53
-gods-trigger,4.10,105,4.53
-the-spectrum-retreat,4.32,219,4.53
-voidtrain,4.49,1182,4.53
-spellforce-3-versus,3.71,59,4.53
-mothergunship,4.40,398,4.53
-sherlock-holmes-crimes-and-punishments,4.41,438,4.53
-darq-complete-edition,4.38,356,4.53
-surviving-the-aftermath,4.46,778,4.53
-bridge-constructor-the-walking-dead,3.99,99,4.53
-verdun,4.50,1894,4.53
-mutant-year-zero,4.50,1902,4.53
-way-of-the-hunter,4.17,151,4.53
-swords-of-legends-online,4.30,242,4.53
-star-stable,4.33,289,4.53
-auto-chess,4.50,2126,4.53
-layers-of-fear-2,4.26,231,4.53
-city-of-brass,4.23,208,4.53
-close-to-the-sun,4.07,136,4.53
-never-alone-kisima-ingitchuna,4.10,157,4.53
-assassins-creed-syndicate,4.50,2543,4.53
-chernobylite,4.03,144,4.53
-osiris-new-dawn,3.78,99,4.53
-sheltered,4.43,787,4.53
-shenmue-3,4.05,160,4.53
-among-the-sleep-enhanced-edition,4.29,340,4.53
-yooka-laylee,4.29,341,4.53
-offworld-trading-company,4.32,398,4.53
-jotun,4.41,716,4.53
-cook-serve-delicious-3-fb9aae,4.48,1895,4.53
-amnesia-a-machine-for-pigs,4.06,184,4.53
-defense-grid,4.45,1141,4.53
-obduction,4.10,215,4.52
-monopoly-plus,3.83,132,4.52
-dauntless,4.52,21895,4.52
-borderlands-the-pre-sequel,4.49,2769,4.52
-rebel-galaxy,4.39,709,4.52
-tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure,4.44,1152,4.52
-stranger-of-paradise-final-fantasy-origin,4.47,1835,4.52
-crysis-remastered,4.37,643,4.52
-automachef,4.31,503,4.52
-mages-of-mystralia,4.35,644,4.52
-tropico-5,4.46,1862,4.52
-outriders,4.42,1158,4.52
-predator-hunting-grounds,4.42,1196,4.52
-mafia-ii-definitive-edition,4.39,926,4.52
-cris-tales,4.35,710,4.52
-scavengers,4.20,384,4.52
-a-total-war-saga-troy,4.50,5871,4.52
-bioshock-2-remastered,4.51,11838,4.52
-galactic-civilizations-iv,4.21,411,4.52
-call-of-the-wild-the-angler,3.88,207,4.52
-vhs,4.27,536,4.52
-lifeless-planet-premier-edition,4.00,264,4.52
-the-vanishing-of-ethan-carter,4.22,460,4.52
-ironcast,3.88,220,4.52
-animation-throwdown-the-quest-for-cards,4.35,835,4.52
-gods-will-fall,3.84,211,4.52
-back-4-blood,4.46,2641,4.52
-evil-dead-the-game,4.50,8925,4.52
-realm-royale-reforged,4.16,442,4.52
-relicta,4.11,390,4.52
-armored-warfare,4.12,425,4.52
-wonder-boy-the-dragons-trap-26381d,4.46,2988,4.52
-core,4.38,1367,4.51
-kards-the-world-war-ii-card-game,4.38,1408,4.51
-blair-witch,4.18,588,4.51
-century-age-of-ashes,4.39,1654,4.51
-watch-dogs-legion,4.35,1270,4.51
-insurmountable-b02c31,4.20,664,4.51
-vampire-the-masquerade-swansong,4.20,714,4.51
-neverwinter,4.28,1001,4.51
-second-extinction,4.09,549,4.51
-pine,4.13,628,4.51
-smite,4.47,6465,4.51
-world-of-warships,4.45,4443,4.51
-daemon-x-machina,4.37,1958,4.51
-eve-online,4.30,1303,4.51
-galactic-civilizations-iii,4.21,1008,4.50
-geneforge-1-mutagen,4.22,1074,4.50
-destiny-2,4.49,27980,4.50
-godfall,4.08,766,4.50
-car-mechanic-simulator-2018,4.49,37698,4.50
-amnesia-rebirth,4.28,1566,4.50
-the-division-2,4.44,6322,4.50
-mafia-iii-definitive-edition,4.19,1202,4.50
-pinball-fx,3.97,711,4.50
-maneater,4.49,81196,4.49
-salt-and-sacrifice,4.30,2120,4.49
-fault-elder-orb,3.90,691,4.49
-saints-row-the-third-remastered,4.41,5729,4.49
-submerged-hidden-depths-6065a1,4.25,2004,4.49
-mtg-arena,4.45,13770,4.48
-aven-colony,4.21,1999,4.48
-space-punks,4.17,1807,4.48
-hundred-days-winemaking-simulator,4.30,3204,4.48
-windbound,4.17,1949,4.47
-far-cry-6,4.42,11625,4.47
-a-game-of-thrones-5858a3,4.19,2437,4.47
-vampyr,4.31,4735,4.46
-roller-champions,4.33,5552,4.46
-rage-2,4.27,3970,4.46
-just-cause-4,4.30,5060,4.45
-rumbleverse,4.44,56504,4.45
-iratus-d0e5ba,4.37,9934,4.45
-stranded-deep,4.19,3102,4.45
-tannenberg,4.38,13091,4.45
-paladins,4.36,11108,4.44
-heroes-and-generals-wwii,4.22,4337,4.44
-ancient-enemy,3.95,2035,4.43
-killing-floor-2,4.37,17938,4.43
-nba-2k21,4.40,41652,4.43
-rogue-company,4.36,20025,4.42
-warface,3.96,2864,4.40
-lawn-mowing-simulator-838bf3,4.08,4949,4.38
-league-of-legends,4.22,9992,4.38
-fortnite,4.30,2159666,4.30
-idle-champions-of-the-forgotten-realms,4.04,8856,4.30
-thecycle,4.13,15266,4.29
-naraka-bladepoint,4.22,128019,4.24
-hood-outlaws-and-legends,3.98,12409,4.22
-shop-titans-d95c1c,3.96,12448,4.21
-saints-row,3.76,20119,4.01
+Game title,Epic Games rating,Number of raters,Bayes rating
+Red Dead Redemption 2,"4,9",102658,"4,87"
+Satisfactory,"4,88",29401,"4,79"
+The Witcher 3: Wild Hunt - Game of the Year Edition,"4,89",14665,"4,74"
+Marvel's Spider-Man Remastered,"4,88",14015,"4,73"
+FINAL FANTASY VII REMAKE INTERGRADE,"4,85",15120,"4,72"
+Football Manager 2022,"4,8",19160,"4,71"
+HITMAN 3,"4,79",21082,"4,71"
+Sid Meier’s Civilization® VI,"4,73",57866,"4,7"
+Grand Theft Auto V: Premium Edition,"4,69",573831,"4,69"
+SnowRunner,"4,76",21349,"4,69"
+Genshin Impact,"4,69",219180,"4,68"
+Enter the Gungeon,"4,86",8617,"4,68"
+Borderlands 3,"4,69",151211,"4,68"
+Hades,"4,92",6336,"4,68"
+Subnautica,"4,83",7928,"4,66"
+Borderlands 2,"4,76",13386,"4,66"
+Sifu,"4,8",9492,"4,66"
+Batman Arkham Knight,"4,82",7386,"4,65"
+Farming Simulator 19,"4,72",16706,"4,65"
+Rise of the Tomb Raider: 20 Year Celebration,"4,69",28216,"4,65"
+God of War,"4,89",4943,"4,65"
+Metro Exodus Standard Edition,"4,8",7529,"4,65"
+Slime Rancher,"4,84",5898,"4,65"
+Shadow of the Tomb Raider: Definitive Edition,"4,65",77497,"4,64"
+Frostpunk,"4,73",11240,"4,64"
+BioShock Infinite: Complete Edition,"4,69",18329,"4,63"
+Horizon Zero Dawn™ Complete Edition,"4,77",7175,"4,63"
+Tomb Raider GAME OF THE YEAR EDITION,"4,67",20961,"4,63"
+Detroit: Become Human,"4,87",3910,"4,63"
+Into the Breach,"4,85",4082,"4,62"
+Anno 1800 Standard Edition,"4,82",4392,"4,62"
+Cities: Skylines,"4,65",25248,"4,62"
+KINGDOM HEARTS HD 1.5+2.5 ReMIX,"4,82",4283,"4,62"
+Kingdom Come: Deliverance,"4,71",9133,"4,62"
+Farming Simulator 22,"4,72",7683,"4,61"
+BioShock Remastered,"4,64",24195,"4,61"
+Celeste,"4,92",2543,"4,61"
+Metro Last Light Redux,"4,73",6367,"4,61"
+PC Building Simulator,"4,67",12155,"4,61"
+Darkest Dungeon®,"4,75",5428,"4,61"
+Unrailed!,"4,64",21990,"4,61"
+Mount & Blade II: Bannerlord,"4,74",5603,"4,61"
+Overcooked! 2,"4,75",5157,"4,61"
+Assassins Creed Odyssey Standard Edition,"4,74",5481,"4,61"
+A Plague Tale: Innocence,"4,67",10904,"4,6"
+Europa Universalis IV,"4,69",8414,"4,6"
+DEATH STRANDING DIRECTOR'S CUT,"4,84",3099,"4,6"
+ARK: Survival Evolved,"4,62",35570,"4,6"
+Neon Abyss,"4,68",8340,"4,6"
+The Long Dark,"4,74",4814,"4,6"
+Darkest Dungeon II,"4,67",7767,"4,59"
+Trackmania,"4,68",6825,"4,59"
+For The King,"4,7",5563,"4,59"
+Chivalry 2,"4,62",18078,"4,59"
+Supraland,"4,61",25175,"4,59"
+Loop Hero,"4,68",6301,"4,59"
+Riders Republic,"4,73",4120,"4,59"
+The Binding of Isaac: Repentance,"4,9",1859,"4,59"
+Warframe,"4,63",12660,"4,59"
+Jurassic World Evolution 2,"4,74",3746,"4,59"
+Batman Arkham City Game of the Year Edition,"4,79",2832,"4,59"
+Metro 2033 Redux,"4,68",5684,"4,59"
+LEGO® Star Wars™: The Skywalker Saga,"4,8",2536,"4,59"
+Nioh 2 – The Complete Edition,"4,79",2526,"4,58"
+Jurassic World Evolution,"4,63",9223,"4,58"
+Days Gone,"4,7",3949,"4,58"
+Sonic Mania,"4,79",2185,"4,58"
+Wolfenstein: The New Order,"4,58",61135,"4,57"
+Disco Elysium,"4,86",1611,"4,58"
+Control,"4,6",16122,"4,57"
+Assassin's Creed Origins Standard Edition,"4,69",3843,"4,58"
+DOOM 64,"4,66",5134,"4,58"
+HITMAN,"4,64",6362,"4,57"
+Dying Light Enhanced Edition,"4,71",3181,"4,57"
+Against the Storm,"4,81",1845,"4,57"
+KINGDOM HEARTS III + Re Mind,"4,79",2011,"4,57"
+Ooblets,"4,87",1446,"4,57"
+Elite Dangerous,"4,63",6856,"4,57"
+Prey,"4,6",13217,"4,57"
+Totally Accurate Battle Simulator,"4,77",2102,"4,57"
+Dead Cells,"4,88",1319,"4,57"
+Risk of Rain 2,"4,87",1310,"4,57"
+Subnautica Below Zero,"4,78",1844,"4,57"
+Among Us,"4,58",26171,"4,57"
+Wargame: Red Dragon,"4,7",2918,"4,57"
+Rogue Legacy 2,"4,86",1331,"4,57"
+Kena: Bridge of Spirits,"4,68",3313,"4,57"
+theHunter: Call of the Wild™,"4,59",14635,"4,57"
+MultiVersus,"4,57",55748,"4,56"
+My Time At Portia,"4,66",3894,"4,57"
+Remnant: From the Ashes,"4,59",12107,"4,56"
+Tony Hawk's™ Pro Skater™ 1 + 2,"4,83",1298,"4,57"
+Cyberpunk 2077,"4,57",32700,"4,56"
+Assassin's Creed® Valhalla Standard Edition,"4,58",12317,"4,56"
+Tiny Tina's Wonderlands,"4,57",20753,"4,56"
+Total War: WARHAMMER II,"4,81",1169,"4,56"
+FTL: Faster Than Light,"4,8",1209,"4,56"
+Total War: WARHAMMER,"4,59",8439,"4,56"
+RimWorld,"4,89",870,"4,56"
+Nioh: The Complete Edition,"4,58",10807,"4,56"
+Pathfinder: Wrath of the Righteous,"4,76",1354,"4,56"
+Pillars of Eternity - Definitive Edition,"4,65",2847,"4,56"
+Dying Light 2 Stay Human,"4,59",7305,"4,56"
+Ring of Pain,"4,57",15086,"4,55"
+Oxygen Not Included,"4,85",897,"4,56"
+Alien: Isolation,"4,6",5222,"4,56"
+Rainbow Six Siege Standard Edition,"4,58",8669,"4,55"
+Outer Wilds,"4,9",726,"4,56"
+MudRunner,"4,63",3155,"4,56"
+Disney Dreamlight Valley,"4,73",1396,"4,56"
+State of Decay 2: Juggernaut Edition,"4,73",1354,"4,56"
+INSIDE,"4,7",1592,"4,55"
+Batman Arkham Asylum Game of the Year Edition,"4,66",2164,"4,55"
+Rising Storm 2: Vietnam,"4,63",2871,"4,55"
+Inscryption,"4,85",771,"4,55"
+VALORANT,"4,55",157172,"4,55"
+Prison Architect,"4,6",4491,"4,55"
+MechWarrior 5: Mercenaries Standard Edition,"4,6",4280,"4,55"
+Surviving Mars,"4,61",3483,"4,55"
+World War Z Aftermath,"4,56",17073,"4,55"
+The Crew 2 Standard Edition,"4,65",2083,"4,55"
+Watch Dogs 2 Standard Edition,"4,58",6460,"4,55"
+The Outer Worlds,"4,63",2487,"4,55"
+Ghostrunner,"4,74",1047,"4,55"
+Dungeons 3,"4,67",1635,"4,55"
+The Walking Dead : The Definitive Series,"4,85",663,"4,55"
+This War of Mine,"4,73",1090,"4,55"
+Salt and Sanctuary,"4,61",3114,"4,55"
+Path of Exile,"4,61",3102,"4,55"
+House Flipper,"4,72",1023,"4,55"
+Marvel's Guardians of the Galaxy,"4,74",898,"4,55"
+Moonlighter,"4,7",1098,"4,55"
+Nuclear Throne,"4,81",631,"4,55"
+Mafia : Definitive Edition,"4,62",2035,"4,55"
+Unreal Tournament,"4,68",1070,"4,55"
+Rogue Legacy,"4,61",2133,"4,55"
+The Wolf Among Us,"4,83",511,"4,55"
+Fall Guys,"4,54",1046587,"4,54"
+Diabotical,"4,79",572,"4,55"
+Rocket League®,"4,54",366020,"4,54"
+The Messenger,"4,79",561,"4,55"
+Far Cry 5 Standard Edition,"4,61",1848,"4,54"
+My Time at Sandrock,"4,68",892,"4,54"
+Bugsnax,"4,83",425,"4,54"
+Old World,"4,63",1307,"4,54"
+Barony,"4,69",763,"4,54"
+Shadow Tactics: Blades of the Shogun,"4,77",495,"4,54"
+Zombie Army 4: Dead War,"4,69",743,"4,54"
+Desperados III,"4,86",351,"4,54"
+Night in the Woods,"4,72",615,"4,54"
+Bad North,"4,66",859,"4,54"
+Horizon Chase Turbo,"4,61",1343,"4,54"
+RollerCoaster Tycoon 3 Complete Edition,"4,68",687,"4,54"
+Overcooked,"4,7",601,"4,54"
+Pathfinder: Kingmaker - Enhanced Plus Edition,"4,56",3868,"4,54"
+DRAGON QUEST® XI S: Echoes of an Elusive Age™,"4,85",306,"4,54"
+Timberborn,"4,68",640,"4,54"
+The Escapists 2,"4,58",1941,"4,54"
+In Sound Mind,"4,58",1937,"4,54"
+Spellbreak,"4,62",1020,"4,54"
+Tetris® Effect: Connected,"4,85",272,"4,54"
+Skul: The Hero Slayer,"4,69",546,"4,54"
+Pikuniku,"4,71",450,"4,54"
+The Witness,"4,69",503,"4,54"
+RAYMAN® LEGENDS,"4,75",351,"4,54"
+Crashlands,"4,68",517,"4,54"
+Void Bastards,"4,61",986,"4,54"
+Deponia: The Complete Journey,"4,63",777,"4,54"
+Blasphemous,"4,9",205,"4,54"
+Insurgency: Sandstorm,"4,59",1316,"4,54"
+FAR CRY 4,"4,65",639,"4,54"
+Darksiders II Deathinitive Edition,"4,62",827,"4,54"
+Medieval Dynasty,"4,63",722,"4,54"
+Total War: WARHAMMER III,"4,61",882,"4,54"
+NEO: The World Ends with You,"4,85",214,"4,54"
+Torchlight II,"4,56",2280,"4,54"
+Spiritfarer®: Farewell Edition,"4,89",178,"4,54"
+Cave Story+,"4,76",278,"4,54"
+XCOM® 2,"4,54",7396,"4,54"
+Tyranny - Gold Edition,"4,58",1278,"4,54"
+Far Cry®3 Standard Edition,"4,65",504,"4,54"
+Yoku's Island Express,"4,7",354,"4,54"
+Far Cry Primal Standard Edition,"4,66",463,"4,54"
+Hyper Light Drifter,"4,69",364,"4,54"
+The Talos Principle,"4,73",281,"4,54"
+Going Medieval,"4,61",706,"4,54"
+Tropico 6,"4,67",398,"4,54"
+The Riftbreaker,"4,73",277,"4,54"
+Immortals Fenyx Rising Standard Edition,"4,6",791,"4,54"
+Conan Exiles,"4,57",1374,"4,54"
+Hell is other demons,"4,7",317,"4,54"
+Atomicrops,"4,87",157,"4,54"
+A Short Hike,"4,82",184,"4,54"
+OCTOPATH TRAVELER™,"4,84",166,"4,54"
+Assassin's Creed II Standard Edition,"4,69",315,"4,54"
+SOMA,"4,7",295,"4,54"
+Dishonored - Definitive Edition,"4,74",234,"4,54"
+Crysis 2 Remastered,"4,61",612,"4,54"
+LEGO® Batman™ 2: DC Super Heroes,"4,63",489,"4,54"
+Supraland Six Inches Under,"4,76",209,"4,54"
+Ruined King: A League of Legends Story™,"4,61",597,"4,54"
+Legends of Runeterra,"4,64",431,"4,54"
+KINGDOM HEARTS HD 2.8 Final Chapter Prologue,"4,75",213,"4,54"
+Songs of Conquest,"4,69",292,"4,54"
+Empires of the Undergrowth,"4,75",212,"4,54"
+The Alto Collection,"4,67",332,"4,54"
+Might & Magic Heroes 3,"4,81",165,"4,54"
+Beyond Two Souls,"4,66",348,"4,54"
+Carcassonne,"4,69",276,"4,54"
+Phoenix Point: Complete Edition,"4,55",2121,"4,54"
+Griftlands,"4,81",151,"4,54"
+South Park™: The Fractured But Whole™ Standard Edition,"4,79",162,"4,54"
+F.I.S.T.: Forged In Shadow Torch,"4,6",572,"4,54"
+Dead by Daylight,"4,53",70340,"4,53"
+Crysis 3 Remastered,"4,61",494,"4,54"
+The Eternal Cylinder,"4,79",149,"4,54"
+Ancestors: The Humankind Odyssey,"4,61",481,"4,54"
+Assassin's Creed Unity,"4,57",900,"4,53"
+The Stanley Parable,"4,72",188,"4,54"
+SLUDGE LIFE,"4,73",176,"4,54"
+Black Book,"4,89",96,"4,54"
+Steep Standard Edition,"4,61",414,"4,53"
+Hob,"4,6",466,"4,53"
+TUNIC,"4,86",100,"4,54"
+Untitled Goose Game,"4,83",109,"4,54"
+Tom Clancy’s Rainbow Six® Extraction Standard Edition,"4,58",635,"4,53"
+Dauntless,"4,53",23656,"4,53"
+20XX,"4,61",392,"4,53"
+Terraforming Mars,"4,54",2731,"4,53"
+Bloons TD 6,"4,75",136,"4,53"
+South Park™: The Stick of Truth™,"4,79",115,"4,53"
+Transport Fever 2,"4,69",180,"4,53"
+DOOM (1993),"4,83",96,"4,53"
+Sunless Sea,"4,6",401,"4,53"
+Tom Clancy's Ghost Recon Wildlands Standard Edition,"4,56",871,"4,53"
+The Telltale Batman Shadows Edition,"4,73",135,"4,53"
+SuchArt: Genius Artist Simulator,"4,74",125,"4,53"
+F1® Manager 2022,"4,56",810,"4,53"
+Moving Out,"4,58",489,"4,53"
+Scott Pilgrim vs. The World: The Game – Complete Edition,"4,78",99,"4,53"
+Limbo,"4,65",198,"4,53"
+Darksiders Warmastered Edition,"4,56",721,"4,53"
+HOT WHEELS UNLEASHED™,"4,6",312,"4,53"
+SUPERHOT,"4,68",146,"4,53"
+Alan Wake Remastered,"4,57",524,"4,53"
+Super Meat Boy,"4,67",155,"4,53"
+The Walking Dead: Season One,"4,83",70,"4,53"
+Wolfenstein: The Old Blood,"4,6",290,"4,53"
+Grindstone,"4,86",63,"4,53"
+Fez,"4,73",103,"4,53"
+Northgard,"4,77",82,"4,53"
+Art of Rally,"4,88",56,"4,53"
+"Warhammer 40,000: Chaos Gate - Daemonhunters","4,58",371,"4,53"
+Baldur's Gate: Enhanced Edition,"4,82",66,"4,53"
+The Dungeon of Naheulbeuk,"4,69",118,"4,53"
+Assassin's Creed Rogue Standard Edition,"4,59",305,"4,53"
+Titan Quest Anniversary Edition,"4,72",98,"4,53"
+Symphony of War,"4,63",181,"4,53"
+Shadow Tactics - Aiko's Choice,"4,79",68,"4,53"
+STORY OF SEASONS: Friends of Mineral Town,"4,83",59,"4,53"
+Hand of Fate 2,"4,55",780,"4,53"
+FUSER™,"4,73",86,"4,53"
+Phantom Brigade,"4,6",239,"4,53"
+DOOM II,"4,88",48,"4,53"
+LEGO® Batman™ 3: Beyond Gotham,"4,56",513,"4,53"
+What Remains of Edith Finch,"4,75",75,"4,53"
+WRC 8 FIA World Rally Championship,"4,61",199,"4,53"
+Transistor,"4,66",123,"4,53"
+Solar Ash,"4,68",106,"4,53"
+Curse of the Dead Gods,"4,64",140,"4,53"
+Heavy Rain,"4,59",251,"4,53"
+Anno 1404 History Edition,"4,75",69,"4,53"
+THE KING OF FIGHTERS XV,"4,61",181,"4,53"
+DOOM 3,"4,67",105,"4,53"
+Ghost Recon Breakpoint Standard Edition,"4,53",4870,"4,53"
+Slime Rancher 2,"4,94",36,"4,53"
+Journey,"4,8",54,"4,53"
+WRC 9 FIA World Rally Championship,"4,59",233,"4,53"
+The Last Campfire,"4,86",42,"4,53"
+Quake,"4,79",53,"4,53"
+We Were Here Forever,"4,65",113,"4,53"
+Coromon,"4,69",84,"4,53"
+This Is The Police,"4,79",52,"4,53"
+Doki Doki Literature Club Plus!,"4,81",47,"4,53"
+SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated,"4,7",76,"4,53"
+RiME,"4,68",85,"4,53"
+Shadowrun Hong Kong - Extended Edition,"4,58",241,"4,53"
+The Walking Dead: Final Season,"4,75",57,"4,53"
+Amnesia: The Dark Descent,"4,57",289,"4,53"
+Death's Door,"4,63",120,"4,53"
+Five Nights at Freddy's: Security Breach,"4,6",169,"4,53"
+Haven,"4,84",38,"4,53"
+Thimbleweed Park,"4,63",115,"4,53"
+Baldur's Gate II: Enhanced Edition,"4,93",29,"4,53"
+Trials Rising Standard Edition,"4,67",81,"4,53"
+Airborne Kingdom,"4,68",74,"4,53"
+Cozy Grove,"4,79",43,"4,53"
+The End is Nigh,"4,82",38,"4,53"
+Syberia: The World Before,"4,62",119,"4,53"
+KINGDOM HEARTS Melody of Memory,"4,66",83,"4,53"
+Oddworld Soulstorm,"4,68",72,"4,53"
+Expeditions: Rome,"4,68",68,"4,53"
+Divine Knockout,"4,7",60,"4,53"
+Wilmot's Warehouse,"4,64",88,"4,53"
+Rayman Origins,"4,82",34,"4,53"
+ABZU,"4,59",148,"4,53"
+Destroy All Humans! 2 - Reprobed,"4,63",90,"4,53"
+The Legend of Heroes: Trails of Cold Steel IV,"4,88",26,"4,53"
+Wildermyth,"4,73",45,"4,53"
+Mutazione,"4,67",63,"4,53"
+World of Goo,"4,72",46,"4,53"
+Dandara: Trials of Fear Edition,"4,58",164,"4,53"
+The Life and Suffering of Sir Brante,"4,81",31,"4,53"
+KID A MNESIA EXHIBITION,"4,73",41,"4,53"
+Operation: Tango,"4,72",43,"4,53"
+Oxenfree,"4,61",99,"4,53"
+Valiant Hearts: The Great War,"4,8",30,"4,53"
+The Drone Racing League®,"4,75",36,"4,53"
+Destroy All Humans!,"4,62",85,"4,53"
+Citizen Sleeper,"4,76",34,"4,53"
+Before We Leave,"4,63",73,"4,53"
+Superliminal,"4,73",37,"4,53"
+Ticket to Ride,"4,57",167,"4,53"
+Super Meat Boy Forever,"4,83",24,"4,53"
+Partisans 1941,"4,6",98,"4,53"
+TowerFall Ascension,"4,75",32,"4,53"
+The Pathless,"4,65",57,"4,53"
+Ghost Recon Future Solider: Ultimate Edition,"4,83",23,"4,53"
+Rogue Lords,"4,71",38,"4,53"
+FAR: Lone Sails,"4,8",25,"4,53"
+The Walking Dead: Season Two,"4,79",24,"4,53"
+Townscaper,"4,68",41,"4,53"
+Journey to the Savage Planet,"4,58",114,"4,53"
+Kingdoms of Amalur: Re-Reckoning,"4,57",137,"4,53"
+Tales of the Neon Sea,"4,55",251,"4,53"
+King's Bounty: The Legend,"4,65",48,"4,53"
+Hue,"4,54",426,"4,53"
+Tom Clancy's The Division,"4,55",247,"4,53"
+WHAT THE GOLF?,"4,68",38,"4,53"
+The Textorcist: The Story of Ray Bibbia,"4,6",78,"4,53"
+FAR: Changing Tides,"4,7",33,"4,53"
+CARRION,"4,65",46,"4,53"
+Sakuna: Of Rice and Ruin,"4,72",29,"4,53"
+King's Bounty: Armored Princess,"4,8",20,"4,53"
+Travellers Rest,"4,61",64,"4,53"
+Tribes of Midgard,"4,57",120,"4,53"
+Slipways,"4,68",34,"4,53"
+Costume Quest,"4,62",53,"4,53"
+Revita,"4,74",23,"4,53"
+Session: Skate Sim,"4,57",111,"4,53"
+Out of the Park Baseball 23,"4,63",46,"4,53"
+Blankos Block Party,"4,7",27,"4,53"
+The Walking Dead: A New Frontier,"4,7",27,"4,53"
+The Forgotten City,"4,65",37,"4,53"
+Stick It To The Man!,"4,59",70,"4,53"
+King's Bounty: Crossworlds,"4,71",24,"4,53"
+Strange Horticulture,"4,65",34,"4,53"
+Hardspace: Shipbreaker,"4,64",36,"4,53"
+MythForce,"4,54",285,"4,53"
+This Is The Police 2,"4,66",29,"4,53"
+Tales from the Borderlands,"4,65",31,"4,53"
+APE OUT,"4,64",33,"4,53"
+Eastward,"4,64",33,"4,53"
+Last Day of June,"4,64",33,"4,53"
+Anno 1701 History Edition,"4,62",37,"4,53"
+Curious Expedition 2,"4,7",20,"4,53"
+HYPERCHARGE: Unboxed,"4,7",20,"4,53"
+Roguebook,"4,58",64,"4,53"
+WE ARE FOOTBALL,"4,67",24,"4,53"
+RUINER,"4,55",137,"4,53"
+Cat Cafe Manager,"4,62",34,"4,53"
+Fights in Tight Spaces,"4,61",38,"4,53"
+Nowhere Prophet,"4,67",21,"4,53"
+GRIME,"4,59",46,"4,53"
+Breathedge,"4,57",61,"4,53"
+UNO Standard Edition,"4,57",58,"4,53"
+Baldur's Gate: Dark Alliance,"4,64",22,"4,53"
+Fell Seal: Arbiter's Mark,"4,59",39,"4,53"
+Horace,"4,58",45,"4,53"
+Far Cry 3: Blood Dragon,"4,57",54,"4,53"
+MotoGP™21,"4,55",95,"4,53"
+Neighbours back From Hell,"4,6",30,"4,53"
+Axiom Verge 2,"4,58",40,"4,53"
+Warhammer 40000: Battlesector,"4,58",40,"4,53"
+Universe Sandbox,"4,56",63,"4,53"
+Battle Chasers: Nightwar,"4,59",32,"4,53"
+The Tenants,"4,55",82,"4,53"
+AXIOM VERGE,"4,54",132,"4,53"
+Nexomon: Extinction,"4,6",25,"4,53"
+Panzer Corps 2,"4,57",37,"4,53"
+Minit,"4,54",104,"4,53"
+SUPERHOT: Mind Control Delete,"4,56",34,"4,53"
+Where The Water Tastes Like Wine,"4,56",34,"4,53"
+WRC 10 FIA World Rally Championship,"4,53",248,"4,53"
+Shadowrun: Dragonfall - Director’s Cut,"4,53",236,"4,53"
+Card Shark,"4,57",21,"4,53"
+Souldiers,"4,54",63,"4,53"
+Ys IX: Monstrum Nox (Launch Week),"4,55",33,"4,53"
+Poly Bridge 2,"4,54",54,"4,53"
+Dark Deception,"4,54",50,"4,53"
+The Silent Age,"4,55",29,"4,53"
+Sonic Origins,"4,53",154,"4,53"
+Isonzo,"4,53",98,"4,53"
+Stories Untold,"4,54",28,"4,53"
+The Surge,"4,53",62,"4,53"
+Diplomacy is Not an Option,"4,53",51,"4,53"
+Hextech Mayhem: A League of Legends Story™,"4,53",30,"4,53"
+Lords and Villeins,"4,52",21,"4,53"
+Mars Horizon,"4,52",23,"4,53"
+Darksiders Genesis,"4,52",67,"4,53"
+"Yes, Your Grace","4,52",85,"4,53"
+Road 96,"4,52",86,"4,53"
+Aragami 2,"4,52",88,"4,53"
+The Banner Saga Epic Trilogy,"4,5",20,"4,53"
+UnMetal,"4,51",35,"4,53"
+Deliver Us The Moon,"4,5",24,"4,53"
+Trials Evolution: Gold Edition,"4,5",28,"4,53"
+Spirit of the Island,"4,48",25,"4,53"
+Anno 2205 - Standard Edition,"4,51",76,"4,53"
+SAMURAI SHODOWN NEOGEO COLLECTION,"4,51",83,"4,53"
+Legend of Keepers,"4,49",39,"4,53"
+Warpips,"4,48",31,"4,53"
+Outward,"4,52",266,"4,53"
+Anodyne 2: Return To Dust,"4,45",20,"4,53"
+Sable,"4,49",43,"4,53"
+Beholder 3,"4,43",21,"4,53"
+Democracy 4,"4,48",46,"4,53"
+Sherlock Holmes: The Devil's Daughter,"4,48",56,"4,53"
+Surgeon Simulator 2,"4,41",22,"4,53"
+Chorus,"4,48",58,"4,53"
+Unexplored 2: The Wayfarer's Legacy,"4,43",28,"4,53"
+Sundered: Eldritch Edition,"4,51",181,"4,53"
+Totally Reliable Delivery Service Standard Edition,"4,5",112,"4,53"
+Hello Neighbor: Hide and Seek,"4,49",81,"4,53"
+Black Widow: Recharged,"4,44",34,"4,53"
+Aeterna Noctis,"4,38",21,"4,53"
+Observation,"4,39",23,"4,53"
+My Lovely Wife,"4,4",25,"4,53"
+HUMANKIND™ Digital Deluxe Edition,"4,52",609,"4,53"
+Gamedec,"4,42",33,"4,53"
+Dark Deity,"4,38",24,"4,53"
+Kitaria Fables,"4,35",20,"4,53"
+Imagine Earth,"4,36",22,"4,53"
+The Caligula Effect 2,"4,41",32,"4,53"
+Out of the Park Baseball 22,"4,38",26,"4,53"
+Train Valley,"4,39",28,"4,53"
+Forgive Me Father,"4,42",38,"4,53"
+Parkitect,"4,33",21,"4,53"
+Good Company,"4,47",75,"4,53"
+Deep Sky Derelicts,"4,41",37,"4,53"
+Industries of Titan,"4,49",123,"4,53"
+The Lion's Song,"4,46",67,"4,53"
+DEATHLOOP,"4,52",874,"4,53"
+3 out of 10: Season Two,"4,44",52,"4,53"
+Ravenous Devils,"4,43",47,"4,53"
+Sherlock Holmes Chapter One,"4,5",179,"4,53"
+"Warhammer 40,000: Gladius - Relics of War","4,41",39,"4,53"
+Aztez,"4,42",43,"4,53"
+Hammerting,"4,29",21,"4,53"
+Layers of Fear: Masterpiece Edition,"4,49",142,"4,53"
+King's Bounty: Dark Side,"4,4",40,"4,53"
+Othercide,"4,4",40,"4,53"
+Death Coming,"4,47",91,"4,53"
+Eiyuden Chronicle: Rising,"4,42",48,"4,53"
+The Last Stand: Aftermath,"4,41",44,"4,53"
+Scrapnaut,"4,39",38,"4,53"
+SpellForce 3 Reforced,"4,45",71,"4,53"
+Ghostwire: Tokyo,"4,52",1100,"4,53"
+Baldur's Gate Dark Alliance II,"4,35",31,"4,53"
+Blazing Beaks,"4,35",31,"4,53"
+RiMS Racing,"4,35",31,"4,53"
+Ken Follett's The Pillars of the Earth,"4,51",368,"4,53"
+Let's Build A Zoo,"4,38",39,"4,53"
+Hello Neighbor,"4,52",1166,"4,53"
+Prehistoric Kingdom,"4,38",40,"4,53"
+Train Sim World® 3: Standard Edition,"4,49",170,"4,53"
+Paradigm,"4,5",247,"4,53"
+CryoFall,"4,39",46,"4,53"
+Far Cry,"4,39",46,"4,53"
+Starsand,"4,31",29,"4,53"
+Darksiders III,"4,47",116,"4,53"
+Fishing - North Atlantic,"4,33",33,"4,53"
+Hero's Hour,"4,35",37,"4,53"
+Circus Electrique,"4,23",22,"4,53"
+Startup Panic,"4,29",28,"4,53"
+Anno 2070,"4,31",32,"4,53"
+War Mongrels,"4,32",34,"4,53"
+Hellpoint,"4,15",20,"4,53"
+LEGO® Batman™: The Videogame,"4,51",523,"4,53"
+Q.U.B.E. 2,"4,44",94,"4,53"
+Genesis Alpha One Deluxe Edition,"4,36",50,"4,53"
+Encased,"4,35",49,"4,53"
+Costume Quest 2,"4,38",60,"4,53"
+Watch Dogs Standard Edition,"4,52",1912,"4,53"
+Family Man,"4,21",28,"4,53"
+Bassmaster® Fishing 2022,"4,23",30,"4,53"
+Grand Tactician The Civil War 1861-1865,"4,21",29,"4,53"
+Redout: Enhanced Edition,"4,49",274,"4,53"
+Oddworld: New 'n' Tasty,"4,44",112,"4,53"
+DEMON'S TILT,"4,49",276,"4,53"
+Little Inferno,"4,38",66,"4,53"
+Railway Empire,"4,52",2155,"4,53"
+Phantasy Star Online 2 New Genesis,"4,51",692,"4,53"
+Just Die Already,"4,52",2280,"4,53"
+Figment,"4,43",109,"4,53"
+Lake,"4,05",22,"4,53"
+Tacoma,"4,35",60,"4,53"
+Might & Magic: Chess Royale,"4,48",238,"4,53"
+Rebel Galaxy Outlaw,"4,45",145,"4,53"
+Halcyon 6 Starbase Commander,"4,45",146,"4,53"
+AER Memories of Old,"4,46",170,"4,53"
+Dead Age 2,4,21,"4,53"
+Townsmen - A Kingdom Rebuilt,"4,22",37,"4,53"
+ELEX,"4,33",58,"4,53"
+Twin Mirror,"4,23",39,"4,53"
+Torchlight,"4,43",122,"4,53"
+ATOM RPG,"4,31",54,"4,53"
+Centipede: Recharged,"4,37",76,"4,53"
+Faeria,"4,46",194,"4,53"
+Gravewood High,"4,13",32,"4,53"
+while True: learn(),"4,51",896,"4,53"
+Submerged,"4,04",27,"4,53"
+Assassin's Creed® I: Director's Cut,"4,43",142,"4,53"
+Trigon: Space Story,"4,16",38,"4,53"
+Creature in the Well,"4,4",113,"4,53"
+Weird West,"4,41",125,"4,53"
+Alan Wake,"4,49",419,"4,53"
+Solitairica,"4,49",474,"4,53"
+Necrosmith,"4,4",131,"4,53"
+Martha Is Dead,"4,08",39,"4,53"
+Edge Of Eternity,"3,73",22,"4,53"
+Might and Magic: Heroes VII - Ultimate Edition,"4,34",96,"4,53"
+Voidtrain,"4,51",1305,"4,53"
+Absolute Drift,"4,44",216,"4,53"
+Sonic Colors: Ultimate,"4,42",179,"4,53"
+The World Next Door,"4,03",38,"4,53"
+Arcadegeddon,"4,5",801,"4,53"
+Cartel Tycoon,"4,33",101,"4,53"
+Tharsis,"4,16",55,"4,53"
+Riverbond,"4,49",617,"4,53"
+Among Trees,"4,35",122,"4,53"
+Gloomhaven,"4,21",68,"4,53"
+Patron,"3,95",38,"4,53"
+Disciples: Liberation,"4,37",145,"4,53"
+Brothers - A Tale of Two Sons,"4,49",687,"4,53"
+Alan Wake’s American Nightmare,"4,24",82,"4,53"
+Crying Suns,"4,5",1003,"4,53"
+Kingdom New Lands,"4,51",1793,"4,53"
+Gone Home,"4,09",55,"4,53"
+Assassin's Creed® III: Remastered,"4,43",257,"4,53"
+Train Life: A Railway Simulator,"3,95",42,"4,53"
+Far Cry 2: Standard Edition,"4,12",60,"4,53"
+Speed Brawl,"4,29",104,"4,53"
+Werewolf: The Apocalypse – Earthblood,"4,13",62,"4,53"
+The Escapists,"4,48",596,"4,53"
+Lumberjack's Dynasty,"4,1",61,"4,53"
+Ashen,"4,29",111,"4,53"
+Shadowrun Returns,"4,44",324,"4,53"
+The First Tree,"4,04",56,"4,53"
+Auto Chess,"4,51",2249,"4,53"
+Conarium,"3,98",53,"4,53"
+Port Royale 4,"3,98",53,"4,53"
+ELEX II,"4,29",124,"4,53"
+The Suicide of Rachel Foster,"4,11",71,"4,53"
+Iron Harvest,"4,34",165,"4,53"
+Stubbs the Zombie in Rebel Without a Pulse,"4,4",249,"4,53"
+House Party,"4,35",177,"4,53"
+Pathway,"4,45",425,"4,53"
+Ranch Simulator,"4,43",338,"4,53"
+Crayta,"4,19",94,"4,53"
+The Guild 3,"4,11",76,"4,53"
+BIOMUTANT,"4,36",198,"4,53"
+Steelrising,"4,25",122,"4,53"
+Farmer's Dynasty,4,64,"4,53"
+The Fall,"4,2",106,"4,53"
+Starship Troopers: Terran Command,"4,18",100,"4,53"
+King's Bounty II,"4,2",108,"4,53"
+Star Trek Online,"4,46",565,"4,53"
+Yooka-Laylee and the Impossible Lair,"4,42",346,"4,53"
+Necromunda: Hired Gun,"4,19",112,"4,53"
+Far Cry New Dawn Standard Edition,"4,41",338,"4,53"
+Mortal Shell,"4,34",213,"4,53"
+Verdun,"4,5",1999,"4,53"
+Train Valley 2,"4,03",87,"4,53"
+Mutant Year Zero: Road to Eden,"4,5",2052,"4,53"
+The Spectrum Retreat,"4,32",230,"4,53"
+CRSED: F.O.A.D.,"4,42",464,"4,53"
+God's Trigger,"4,11",114,"4,53"
+Sherlock Holmes: Crimes and Punishments,"4,42",491,"4,53"
+Ghostbusters: The Video Game Remastered,"4,4",418,"4,53"
+Surviving the Aftermath: Founder's Edition,"4,46",836,"4,53"
+DARQ: Complete Edition,"4,39",388,"4,53"
+Mothergunship,"4,4",436,"4,53"
+Assassin's Creed Syndicate Standard Edition,"4,5",2854,"4,52"
+Star Stable Online,"4,34",317,"4,53"
+"Cook, Serve, Delicious! 3?!","4,49",2006,"4,52"
+SpellForce 3: Versus Edition,"3,61",66,"4,53"
+Bridge Constructor The Walking Dead,"3,93",104,"4,53"
+City of Brass,"4,24",227,"4,53"
+Way of the Hunter,"4,18",190,"4,53"
+Layers of Fear 2,"4,26",249,"4,53"
+Swords of Legends Online,"4,27",262,"4,53"
+Never Alone (Kisima Ingitchuna),"4,11",174,"4,52"
+Chernobylite,"4,04",149,"4,52"
+Close To The Sun,"4,02",147,"4,52"
+Shenmue III - Standard Edition,"4,09",172,"4,52"
+Osiris: New Dawn,"3,78",106,"4,52"
+Jotun: Valhalla Edition,"4,41",758,"4,52"
+Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure,"4,45",1211,"4,52"
+Defense Grid: The Awakening,"4,45",1225,"4,52"
+Among the Sleep - Enhanced Edition,"4,29",368,"4,52"
+BioShock 2 Remastered,"4,51",12272,"4,52"
+Amnesia: A Machine for Pigs,"4,08",197,"4,52"
+STRANGER OF PARADISE FINAL FANTASY ORIGIN,"4,47",1919,"4,52"
+Yooka-Laylee,"4,27",366,"4,52"
+Sheltered,"4,41",877,"4,52"
+Offworld Trading Company,"4,3",432,"4,52"
+Obduction,"4,11",231,"4,52"
+Rebel Galaxy,"4,39",774,"4,52"
+MONOPOLY® PLUS,"3,82",142,"4,52"
+A Total War Saga: TROY,"4,5",6316,"4,52"
+Crysis Remastered,"4,37",697,"4,52"
+Borderlands: The Pre-Sequel,"4,48",2939,"4,52"
+Tropico 5,"4,46",2008,"4,52"
+Automachef,"4,31",543,"4,52"
+OUTRIDERS,"4,42",1201,"4,52"
+Predator: Hunting Grounds Standard Edition,"4,43",1373,"4,52"
+Cris Tales,"4,36",758,"4,52"
+Galactic Civilizations IV,"4,24",429,"4,52"
+Mages of Mystralia,"4,34",693,"4,52"
+Back 4 Blood: Standard Edition,"4,47",2790,"4,52"
+Evil Dead: The Game,"4,5",9131,"4,52"
+Mafia II: Definitive Edition,"4,39",1020,"4,52"
+The Vanishing of Ethan Carter,"4,24",490,"4,52"
+Scavengers,"4,18",403,"4,52"
+Video Horror Society,"4,27",559,"4,52"
+Animation Throwdown: The Quest for Cards,"4,35",874,"4,52"
+Lifeless Planet: Premier Edition,4,287,"4,52"
+Ironcast,"3,89",238,"4,52"
+Gods Will Fall,"3,86",228,"4,52"
+Call of the Wild: The Angler™,"3,98",281,"4,52"
+Spirit of the North,"4,36",1175,"4,51"
+Relicta,"4,1",429,"4,51"
+Wonder Boy The Dragons Trap,"4,45",3047,"4,51"
+Armored Warfare,"4,12",458,"4,51"
+Core,"4,38",1439,"4,51"
+KARDS - The WWII Card Game,"4,38",1466,"4,51"
+Century: Age of Ashes,"4,4",1747,"4,51"
+The Captain,"4,41",2117,"4,51"
+Blair Witch,"4,18",635,"4,51"
+Watch Dogs: Legion Standard Edition,"4,35",1361,"4,51"
+World of Warships,"4,46",4733,"4,51"
+Train Sim World® 2,"4,42",2541,"4,51"
+Insurmountable,"4,2",711,"4,51"
+Vampire: The Masquerade – Swansong,"4,2",736,"4,51"
+SMITE,"4,47",6749,"4,51"
+Realm Royale Reforged,"4,22",841,"4,51"
+Neverwinter,"4,28",1084,"4,51"
+Pine,"4,13",694,"4,51"
+Second Extinction™,"4,08",617,"4,51"
+DAEMON X MACHINA,"4,37",2096,"4,5"
+Destiny 2,"4,49",32207,"4,5"
+Car Mechanic Simulator 2018,"4,49",38343,"4,5"
+EVE Online,"4,29",1408,"4,5"
+Galactic Civilizations III,"4,22",1085,"4,5"
+Geneforge 1 - Mutagen,"4,21",1102,"4,5"
+Maneater,"4,49",82037,"4,49"
+Godfall,"4,08",818,"4,5"
+The Division 2 Standard Edition,"4,44",6675,"4,5"
+Amnesia: Rebirth,"4,27",1664,"4,49"
+Salt and Sacrifice,"4,31",2205,"4,49"
+Magic: The Gathering Arena,"4,46",14652,"4,49"
+Pinball FX,"3,97",756,"4,49"
+Mafia III: Definitive Edition,"4,18",1289,"4,49"
+Fault: Elder Orb,"3,9",723,"4,49"
+Saints Row®: The Third™ Remastered,"4,41",6169,"4,49"
+Submerged: Hidden Depths,"4,26",2582,"4,48"
+Space Punks,"4,18",1927,"4,48"
+Aven Colony,"4,21",2200,"4,47"
+Far Cry 6 Standard Edition,"4,42",12290,"4,47"
+Windbound,"4,17",2109,"4,47"
+A Game Of Thrones: The Board Game Digital Edition,"4,19",2500,"4,46"
+Roller Champions™,"4,34",5693,"4,46"
+Vampyr,"4,31",5106,"4,46"
+Rage 2,"4,28",4311,"4,46"
+Iratus: Lord of the Dead,"4,37",10109,"4,45"
+Just Cause 4 Reloaded,"4,3",5442,"4,45"
+Hundred Days - Winemaking Simulator,"4,34",7669,"4,45"
+Rumbleverse™,"4,43",61855,"4,44"
+Stranded Deep,"4,19",3300,"4,45"
+Tannenberg,"4,38",13393,"4,45"
+Paladins,"4,36",11687,"4,44"
+Heroes & Generals WWII,"4,22",4634,"4,43"
+Ancient Enemy,"3,95",2089,"4,43"
+Killing Floor 2,"4,37",18418,"4,43"
+NBA 2K21,"4,4",43722,"4,42"
+Rogue Company,"4,36",21107,"4,42"
+Warface,"3,95",3179,"4,39"
+Lawn Mowing Simulator,"4,08",5086,"4,38"
+League of Legends,"4,21",10796,"4,37"
+Fortnite,"4,3",2283925,"4,3"
+Idle Champions of the Forgotten Realms,"4,04",9041,"4,3"
+The Cycle: Frontier,"4,13",15671,"4,29"
+NARAKA: BLADEPOINT,"4,23",132339,"4,25"
+Hood: Outlaws & Legends,"3,98",12539,"4,23"
+Shop Titans,"3,97",12664,"4,22"
+Saints Row,"3,77",22103,"4,01"
+Average,"4,53",10069,"4,54"
