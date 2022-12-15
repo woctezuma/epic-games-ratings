@@ -10,6 +10,13 @@ This repository contains Python code to data-mine ratings at the Epic Games Stor
 
 The leak has been plugged, so the code cannot fetch `ratingCount` directly from Epic Games anymore.
 
+> **Note**
+> As of December 15, 2022, the official ranking seems to be using Bayesian average ratings! 🥳🎉
+> 
+> For comparison:
+> - [the latest unofficial ranking][unofficial-ranking-latest], on September 24, 2022,
+> - [the official ranking][official-ranking-new-sorting-order], on December 15, 2022.
+
 ## Requirements
 
 -   Install the latest version of [Python 3.X][python-download-url].
@@ -82,3 +89,5 @@ NB: the ranking does not feature [delisted games][delisted-games].
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 [ranking-url]: <data/egs_game_ranking.csv>
 [egs-official-ranking]: <https://store.epicgames.com/collection/top-player-reviewed>
+[unofficial-ranking-latest]: <https://github.com/woctezuma/epic-games-ratings/wiki/Ranking-(2022-09-24)>
+[official-ranking-new-sorting-order]: <https://github.com/woctezuma/epic-games-ratings/wiki/Official-Ranking-(2022-12-15)>
