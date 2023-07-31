@@ -17,6 +17,9 @@ The leak has been plugged, so the code cannot fetch `ratingCount` directly from 
 > - [the latest unofficial ranking][unofficial-ranking-latest], on September 24, 2022,
 > - [the official ranking][official-ranking-new-sorting-order], on December 15, 2022.
 
+> **Note**
+> Unfortunately, the official ranking was reverted back to using **raw** ratings later on the same day.
+
 ## Requirements
 
 -   Install the latest version of [Python 3.X][python-download-url].
