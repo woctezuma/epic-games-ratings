@@ -5,7 +5,7 @@ import pathlib
 def save_json(data, filename, prettify=True):
     with open(filename, "w", encoding="utf8") as f:
         if prettify:
-            json.dump(data, f, indent=4, sort_keys=True)
+            json.dump(data, f, indent=4)
         else:
             json.dump(data, f)
 
