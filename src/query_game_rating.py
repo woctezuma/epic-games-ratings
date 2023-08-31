@@ -8,7 +8,7 @@ def get_params_to_query_game_rating(sandbox_id):
         "extensions": {
             "persistedQuery": {
                 "version": 1,
-                "sha256Hash": "b6795ca724814d54cfc1854698773d1ee7b0721b326f64fc08b48a3b9358b01d",
+                "sha256Hash": "4a58e53900301bcbfa5a2a576ece55ec1151c0e69cdddb66891ee18c466054ed",
             }
         },
     }
