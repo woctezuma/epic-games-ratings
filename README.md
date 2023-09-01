@@ -23,9 +23,9 @@ The leak has been plugged, so the code cannot fetch `ratingCount` directly from 
 > **Note**
 > As of August 31, 2023, the official ranking uses a mysterious sorting order! 😱
 >
-> For investigaztion:
+> For investigation:
 > - [the official ranking][official-ranking-mysterious-sorting-order-August-31-2023], on August 31, 2023,
-> - [the official ranking][official-ranking-mysterious-sorting-order-September-01-2023], on September 1, 2023,
+> - [the official ranking][official-ranking-mysterious-sorting-order-September-01-2023], on September 1, 2023.
 
 ## Requirements
 
