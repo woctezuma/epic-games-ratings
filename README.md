@@ -20,6 +20,13 @@ The leak has been plugged, so the code cannot fetch `ratingCount` directly from 
 > **Note**
 > Unfortunately, the official ranking was reverted back to using **raw** ratings later on the same day.
 
+> **Note**
+> As of August 31, 2023, the official ranking uses a mysterious sorting order! 😱
+>
+> For investigaztion:
+> - [the official ranking][official-ranking-mysterious-sorting-order-August-31-2023], on August 31, 2023,
+> - [the official ranking][official-ranking-mysterious-sorting-order-September-01-2023], on September 1, 2023,
+
 ## Requirements
 
 -   Install the latest version of [Python 3.X][python-download-url].
@@ -94,3 +101,5 @@ NB: the ranking does not feature [delisted games][delisted-games].
 [egs-official-ranking]: <https://store.epicgames.com/collection/top-player-reviewed>
 [unofficial-ranking-latest]: <https://github.com/woctezuma/epic-games-ratings/wiki/Ranking-(2022-09-24)>
 [official-ranking-new-sorting-order]: <https://github.com/woctezuma/epic-games-ratings/wiki/Official-Ranking-(2022-12-15)>
+[official-ranking-mysterious-sorting-order-August-31-2023]: <https://github.com/woctezuma/epic-games-ratings/wiki/Official-Ranking-(2023-08-31)>
+[official-ranking-mysterious-sorting-order-September-01-2023]: <https://github.com/woctezuma/epic-games-ratings/wiki/Official-Ranking-(2023-09-01)>
