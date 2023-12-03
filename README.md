@@ -10,17 +10,17 @@ This repository contains Python code to data-mine ratings at the Epic Games Stor
 
 The leak has been plugged, so the code cannot fetch `ratingCount` directly from Epic Games anymore.
 
-> **Note**
+> [!Note]
 > As of December 15, 2022, the official ranking seems to be using Bayesian average ratings! 🥳🎉
 > 
 > For comparison:
 > - [the latest unofficial ranking][unofficial-ranking-latest], on September 24, 2022,
 > - [the official ranking][official-ranking-new-sorting-order], on December 15, 2022.
 
-> **Note**
+> [!Note]
 > Unfortunately, the official ranking was reverted back to using **raw** ratings later on the same day.
 
-> **Note**
+> [!Note]
 > As of August 31, 2023, the official ranking uses a mysterious sorting order! 😱
 >
 > For investigation:
