@@ -1,5 +1,5 @@
 def get_num_games_per_query():
-    return 1000
+    return 40
 
 
 def compute_cursor(iter_no):
